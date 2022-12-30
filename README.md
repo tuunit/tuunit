@@ -1,6 +1,6 @@
 # Hi 👋 my name is Jan Larwig
 ## Coder, Open Sourcerer, Teacher
-I'm a Software Engineer with a passion for open source and teaching. I've been coding for over 13 years and love to share my knowledge about software architecture and design. My favourite language right now is Go, closely followed by Python. Other than that I've used quite a mixed bunch of languages by now. Ranging from all the major C flavours (C++, C#, C) over Java, TypeScript, Go, Python and even some PHP and Ruby.
+I'm a Software Engineer with a passion for open source and teaching. I've been coding for over 13 years and love to share my knowledge about software architecture and design. My favourite language right now is Go, closely followed by Python. Other than that I've used quite a mixed bunch of languages by now. (Coding polyglot) Ranging from all the major C flavours (C++, C#, C) over Java, TypeScript, Go, Python and even some PHP and Ruby.
 
 * 🌍  I'm based in Germany (for now)
 * ✉️  You can contact me at [jan@larwig.com](mailto:jan@larwig.com)
