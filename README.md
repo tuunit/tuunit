@@ -10,26 +10,26 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=tuunit&custom_title=Jan%20Larwig&theme=dark&show_icons=true&card_width=450&icon_color=2596be&ring_color=2596be&disable_animations=true&include_all_commits=true&count_private=true&hide=stars" 
+      srcset="https://tuunit-github-readme-stats.vercel.app/api?username=tuunit&custom_title=Jan%20Larwig&theme=dark&show_icons=true&card_width=450&icon_color=2596be&ring_color=2596be&disable_animations=true&include_all_commits=true&count_private=true&hide=stars" 
       media="(prefers-color-scheme: dark)" 
     />
         <source
-      srcset="https://github-readme-stats.vercel.app/api?username=tuunit&custom_title=Jan%20Larwig&show_icons=true&card_width=450&icon_color=2596be&ring_color=2596be&disable_animations=true&include_all_commits=true&count_private=true&hide=stars" 
+      srcset="https://tuunit-github-readme-stats.vercel.app/api?username=tuunit&custom_title=Jan%20Larwig&show_icons=true&card_width=450&icon_color=2596be&ring_color=2596be&disable_animations=true&include_all_commits=true&count_private=true&hide=stars" 
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=tuunit&custom_title=Jan%20Larwig&show_icons=true&card_width=450&icon_color=2596be&ring_color=2596be&disable_animations=true&include_all_commits=true&count_private=true&hide=stars" />
+    <img src="https://tuunit-github-readme-stats.vercel.app/api?username=tuunit&custom_title=Jan%20Larwig&show_icons=true&card_width=450&icon_color=2596be&ring_color=2596be&disable_animations=true&include_all_commits=true&count_private=true&hide=stars" />
   </picture>
   
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tuunit&theme=dark&card_width=300&langs_count=6&layout=compact&exclude_repo=dotfiles" 
+      srcset="https://tuunit-github-readme-stats.vercel.app/api/top-langs/?username=tuunit&theme=dark&card_width=300&langs_count=6&layout=compact&exclude_repo=dotfiles" 
       media="(prefers-color-scheme: dark)" 
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tuunit&card_width=300&langs_count=6&layout=compact&exclude_repo=dotfiles" 
+      srcset="https://tuunit-github-readme-stats.vercel.app/api/top-langs/?username=tuunit&card_width=300&langs_count=6&layout=compact&exclude_repo=dotfiles" 
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuunit&card_width=300&langs_count=6&layout=compact&exclude_repo=dotfiles" />
+    <img src="https://tuunit-github-readme-stats.vercel.app/api/top-langs/?username=tuunit&card_width=300&langs_count=6&layout=compact&exclude_repo=dotfiles" />
   </picture>
 </a>
 
