@@ -33,6 +33,10 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
   </picture>
 </a>
 
+## 🔔 GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <!--
 **tuunit/tuunit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
