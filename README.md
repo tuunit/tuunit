@@ -43,10 +43,10 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#4](https://github.com/seacrew/helm-compose/pull/4) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
-2. 🗣 Commented on [#8](https://github.com/onixpro/mkdocs-drawio-file/issues/8) in [onixpro/mkdocs-drawio-file](https://github.com/onixpro/mkdocs-drawio-file)
-3. 🗣 Commented on [#114606](https://github.com/kubernetes/kubernetes/issues/114606) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-4. 🗣 Commented on [#1928](https://github.com/oauth2-proxy/oauth2-proxy/issues/1928) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. 🗣 Commented on [#7](https://github.com/onixpro/mkdocs-drawio-file/issues/7) in [onixpro/mkdocs-drawio-file](https://github.com/onixpro/mkdocs-drawio-file)
+2. 🚀 Published release [](https://github.com/) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+3. 🚀 Published release [1.0.0-alpha.3](https://github.com/1.0.0-alpha.3) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+4. 🗣 Commented on [#8](https://github.com/onixpro/mkdocs-drawio-file/issues/8) in [onixpro/mkdocs-drawio-file](https://github.com/onixpro/mkdocs-drawio-file)
+5. 🗣 Commented on [#114606](https://github.com/kubernetes/kubernetes/issues/114606) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
 
 <!--
