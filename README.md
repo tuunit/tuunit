@@ -10,26 +10,26 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source
-      srcset="https://tuunit-github-readme-stats.vercel.app/api?username=tuunit&custom_title=Jan%20Larwig&theme=dark&show_icons=true&card_width=450&icon_color=2596be&ring_color=2596be&include_all_commits=true&count_private=true&hide=stars&disable_animations=true" 
+      srcset="https://raw.githubusercontent.com/tuunit/tuunit/main/general_dark.svg" 
       media="(prefers-color-scheme: dark)" 
     />
-        <source
-      srcset="https://tuunit-github-readme-stats.vercel.app/api?username=tuunit&custom_title=Jan%20Larwig&show_icons=true&card_width=450&icon_color=2596be&ring_color=2596be&include_all_commits=true&count_private=true&hide=stars&disable_animations=true" 
+    <source
+      srcset="https://raw.githubusercontent.com/tuunit/tuunit/main/general_light.svg" 
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
     />
-    <img src="https://tuunit-github-readme-stats.vercel.app/api?username=tuunit&custom_title=Jan%20Larwig&show_icons=true&card_width=450&icon_color=2596be&ring_color=2596be&include_all_commits=true&count_private=true&hide=stars&disable_animations=true" />
+    <img src="https://raw.githubusercontent.com/tuunit/tuunit/main/general_light.svg" />
   </picture>
   
   <picture>
     <source
-      srcset="https://tuunit-github-readme-stats.vercel.app/api/top-langs/?username=tuunit&theme=dark&card_width=300&langs_count=6&layout=compact&exclude_repo=dotfiles&disable_animations=true" 
+      srcset="https://raw.githubusercontent.com/tuunit/tuunit/main/languages_dark.svg" 
       media="(prefers-color-scheme: dark)" 
     />
     <source
-      srcset="https://tuunit-github-readme-stats.vercel.app/api/top-langs/?username=tuunit&card_width=300&langs_count=6&layout=compact&exclude_repo=dotfiles&disable_animations=true" 
+      srcset="https://raw.githubusercontent.com/tuunit/tuunit/main/languages_light.svg" 
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
     />
-    <img src="https://tuunit-github-readme-stats.vercel.app/api/top-langs/?username=tuunit&card_width=300&langs_count=6&layout=compact&exclude_repo=dotfiles&disable_animations=true" />
+    <img src="https://raw.githubusercontent.com/tuunit/tuunit/main/languages_light.svg" />
   </picture>
 </a>
 
