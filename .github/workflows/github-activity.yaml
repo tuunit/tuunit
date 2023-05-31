@@ -23,6 +23,6 @@ jobs:
           message: Update github-readme-stats
           default_author: github_actions
       - name: Update GitHub Activity Readme
-        uses: tuunit/github-activity-readme@0.4.0-rc
+        uses: jamesgeorge007/github-activity-readme@v0.4.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
