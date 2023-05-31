@@ -35,9 +35,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#70](https://github.com/jamesgeorge007/github-activity-readme/issues/70) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🗣 Commented on [#70](https://github.com/jamesgeorge007/github-activity-readme/issues/70) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. 🗣 Commented on [#70](https://github.com/jamesgeorge007/github-activity-readme/issues/70) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. ❗️ Closed issue [#85](https://github.com/jamesgeorge007/github-activity-readme/issues/85) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#85](https://github.com/jamesgeorge007/github-activity-readme/issues/85) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. ❌ Closed PR [#60](https://github.com/jamesgeorge007/github-activity-readme/pull/60) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🗣 Commented on [#60](https://github.com/jamesgeorge007/github-activity-readme/issues/60) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 🗣 Commented on [#52](https://github.com/jamesgeorge007/github-activity-readme/issues/52) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. 🔒 Closed issue [#63](https://github.com/jamesgeorge007/github-activity-readme/issues/63) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5. 🗣 Commented on [#63](https://github.com/jamesgeorge007/github-activity-readme/issues/63) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
