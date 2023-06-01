@@ -35,9 +35,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.4.0](https://github.com/v0.4.0) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🎉 Merged PR [#97](https://github.com/jamesgeorge007/github-activity-readme/pull/97) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. ❌ Closed PR [#60](https://github.com/jamesgeorge007/github-activity-readme/pull/60) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🗣 Commented on [#60](https://github.com/jamesgeorge007/github-activity-readme/issues/60) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#52](https://github.com/jamesgeorge007/github-activity-readme/issues/52) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 🗣 Commented on [#75](https://github.com/jamesgeorge007/github-activity-readme/issues/75) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🗣 Commented on [#61](https://github.com/jamesgeorge007/github-activity-readme/issues/61) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 🔒 Closed issue [#44](https://github.com/jamesgeorge007/github-activity-readme/issues/44) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. 🗣 Commented on [#44](https://github.com/jamesgeorge007/github-activity-readme/issues/44) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5. 🚀 Published release [v0.4.0](https://github.com/v0.4.0) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
