@@ -36,9 +36,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [1.1.0](https://github.com/1.1.0) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
-2. 🎉 Merged PR [#5](https://github.com/seacrew/helm-compose/pull/5) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
-3. 💪 Opened PR [#102](https://github.com/jamesgeorge007/github-activity-readme/pull/102) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🎉 Merged PR [#101](https://github.com/jamesgeorge007/github-activity-readme/pull/101) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 💪 Opened PR [#101](https://github.com/jamesgeorge007/github-activity-readme/pull/101) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 🗣 Commented on [#99](https://github.com/jamesgeorge007/github-activity-readme/issues/99) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🚀 Published release [1.1.0](https://github.com/1.1.0) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+3. 🎉 Merged PR [#5](https://github.com/seacrew/helm-compose/pull/5) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+4. 💪 Opened PR [#102](https://github.com/jamesgeorge007/github-activity-readme/pull/102) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5. 🎉 Merged PR [#101](https://github.com/jamesgeorge007/github-activity-readme/pull/101) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
