@@ -39,5 +39,5 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 2. 🗣 Commented on [#99](https://github.com/jamesgeorge007/github-activity-readme/issues/99#issuecomment-1587981703) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 3. 🚀 Published release [1.1.0](https://github.com/seacrew/helm-compose/releases/tag/1.1.0) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
 4. 🎉 Merged PR [#5](https://github.com/seacrew/helm-compose/pull/5) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
-5. 🎉 Merged PR [#97](https://github.com/jamesgeorge007/github-activity-readme/pull/97) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5. 🚀 Published release [v0.4.0](https://github.com/jamesgeorge007/github-activity-readme/releases/tag/v0.4.0) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
