@@ -35,9 +35,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#102](https://github.com/jamesgeorge007/github-activity-readme/pull/102#issuecomment-1619054285) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🗣 Commented on [#102](https://github.com/jamesgeorge007/github-activity-readme/pull/102#issuecomment-1619053900) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. 💪 Opened PR [#104](https://github.com/jamesgeorge007/github-activity-readme/pull/104) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🗣 Commented on [#102](https://github.com/jamesgeorge007/github-activity-readme/pull/102#issuecomment-1613570844) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🚀 Published release [1.1.1](https://github.com/seacrew/helm-compose/releases/tag/1.1.1) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+1. 🎉 Merged PR [#105](https://github.com/jamesgeorge007/github-activity-readme/pull/105) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🗣 Commented on [#102](https://github.com/jamesgeorge007/github-activity-readme/pull/102#issuecomment-1619054285) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 🗣 Commented on [#102](https://github.com/jamesgeorge007/github-activity-readme/pull/102#issuecomment-1619053900) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. 💪 Opened PR [#104](https://github.com/jamesgeorge007/github-activity-readme/pull/104) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5. 🗣 Commented on [#102](https://github.com/jamesgeorge007/github-activity-readme/pull/102#issuecomment-1613570844) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
