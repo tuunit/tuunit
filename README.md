@@ -35,9 +35,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2126](https://github.com/oauth2-proxy/oauth2-proxy/pull/2126#issuecomment-1688772568) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🗣 Commented on [#2025](https://github.com/oauth2-proxy/oauth2-proxy/pull/2025#issuecomment-1688750940) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. 🗣 Commented on [#2025](https://github.com/oauth2-proxy/oauth2-proxy/pull/2025#issuecomment-1688749705) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-4. 🗣 Commented on [#2053](https://github.com/oauth2-proxy/oauth2-proxy/pull/2053#issuecomment-1688739083) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. 🗣 Commented on [#2113](https://github.com/oauth2-proxy/oauth2-proxy/pull/2113#issuecomment-1688730670) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 🗣 Commented on [#106](https://github.com/jamesgeorge007/github-activity-readme/issues/106#issuecomment-1689540658) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🗣 Commented on [#73](https://github.com/jamesgeorge007/github-activity-readme/issues/73#issuecomment-1689530801) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 🗣 Commented on [#61](https://github.com/jamesgeorge007/github-activity-readme/issues/61#issuecomment-1689519366) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. 🗣 Commented on [#51](https://github.com/jamesgeorge007/github-activity-readme/issues/51#issuecomment-1689516276) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5. 🔒 Closed issue [#51](https://github.com/jamesgeorge007/github-activity-readme/issues/51) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
