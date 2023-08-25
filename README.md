@@ -35,9 +35,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#106](https://github.com/jamesgeorge007/github-activity-readme/issues/106#issuecomment-1689540658) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🗣 Commented on [#73](https://github.com/jamesgeorge007/github-activity-readme/issues/73#issuecomment-1689530801) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. 🗣 Commented on [#61](https://github.com/jamesgeorge007/github-activity-readme/issues/61#issuecomment-1689519366) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🗣 Commented on [#51](https://github.com/jamesgeorge007/github-activity-readme/issues/51#issuecomment-1689516276) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🔒 Closed issue [#51](https://github.com/jamesgeorge007/github-activity-readme/issues/51) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 🗣 Commented on [#2175](https://github.com/oauth2-proxy/oauth2-proxy/pull/2175#issuecomment-1692346013) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 🗣 Commented on [#1927](https://github.com/oauth2-proxy/oauth2-proxy/pull/1927#issuecomment-1692122434) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. 🗣 Commented on [#1990](https://github.com/oauth2-proxy/oauth2-proxy/pull/1990#issuecomment-1692020616) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. 🗣 Commented on [#1996](https://github.com/oauth2-proxy/oauth2-proxy/pull/1996#issuecomment-1692013854) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. 🗣 Commented on [#1636](https://github.com/oauth2-proxy/oauth2-proxy/issues/1636#issuecomment-1691998262) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
