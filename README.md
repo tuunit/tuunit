@@ -35,9 +35,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/seacrew/helm-compose/pull/23) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
-2. 🗣 Commented on [#22](https://github.com/seacrew/helm-compose/issues/22#issuecomment-1702963114) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
-3. 🗣 Commented on [#22](https://github.com/seacrew/helm-compose/issues/22#issuecomment-1702959354) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
-4. 🎉 Merged PR [#21](https://github.com/seacrew/helm-compose/pull/21) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
-5. 🔒 Closed issue [#18](https://github.com/seacrew/helm-compose/issues/18) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+1. 🗣 Commented on [#2188](https://github.com/oauth2-proxy/oauth2-proxy/issues/2188#issuecomment-1704973781) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 🎉 Merged PR [#23](https://github.com/seacrew/helm-compose/pull/23) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+3. 🗣 Commented on [#22](https://github.com/seacrew/helm-compose/issues/22#issuecomment-1702963114) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+4. 🗣 Commented on [#22](https://github.com/seacrew/helm-compose/issues/22#issuecomment-1702959354) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+5. 🎉 Merged PR [#21](https://github.com/seacrew/helm-compose/pull/21) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
 <!--END_SECTION:activity-->
