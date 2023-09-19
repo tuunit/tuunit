@@ -35,9 +35,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2164](https://github.com/oauth2-proxy/oauth2-proxy/issues/2164#issuecomment-1722481444) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🔒 Closed issue [#2164](https://github.com/oauth2-proxy/oauth2-proxy/issues/2164) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. 🔒 Reopened issue [#978](https://github.com/oauth2-proxy/oauth2-proxy/issues/978) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-4. 🎉 Merged PR [#29](https://github.com/seacrew/helm-compose/pull/29) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
-5. 🎉 Merged PR [#28](https://github.com/seacrew/helm-compose/pull/28) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+1. 🗣 Commented on [#2235](https://github.com/oauth2-proxy/oauth2-proxy/pull/2235#issuecomment-1723559070) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 🗣 Commented on [#108](https://github.com/jamesgeorge007/github-activity-readme/issues/108#issuecomment-1723200288) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 🗣 Commented on [#1922](https://github.com/oauth2-proxy/oauth2-proxy/pull/1922#issuecomment-1723186047) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. 🗣 Commented on [#2156](https://github.com/oauth2-proxy/oauth2-proxy/issues/2156#issuecomment-1723180652) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. 🗣 Commented on [#2204](https://github.com/oauth2-proxy/oauth2-proxy/issues/2204#issuecomment-1723159835) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
