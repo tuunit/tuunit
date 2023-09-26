@@ -35,9 +35,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2204](https://github.com/oauth2-proxy/oauth2-proxy/issues/2204#issuecomment-1732532035) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🗣 Commented on [#108](https://github.com/jamesgeorge007/github-activity-readme/issues/108#issuecomment-1732311918) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. 🗣 Commented on [#110](https://github.com/jamesgeorge007/github-activity-readme/issues/110#issuecomment-1732308098) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🗣 Commented on [#111](https://github.com/jamesgeorge007/github-activity-readme/pull/111#issuecomment-1732293637) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 💪 Opened PR [#111](https://github.com/jamesgeorge007/github-activity-readme/pull/111) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 🗣 Commented on [#2053](https://github.com/oauth2-proxy/oauth2-proxy/pull/2053#issuecomment-1733369004) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 🗣 Commented on [#2223](https://github.com/oauth2-proxy/oauth2-proxy/issues/2223#issuecomment-1733139019) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. 🎉 Merged PR [#34](https://github.com/seacrew/helm-compose/pull/34) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+4. 🔒 Closed issue [#2223](https://github.com/oauth2-proxy/oauth2-proxy/issues/2223) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. 🗣 Commented on [#2223](https://github.com/oauth2-proxy/oauth2-proxy/issues/2223#issuecomment-1733127937) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
