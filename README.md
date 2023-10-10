@@ -35,9 +35,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2261](https://github.com/oauth2-proxy/oauth2-proxy/issues/2261#issuecomment-1750763020) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🗣 Commented on [#119](https://github.com/mlange-42/track/issues/119#issuecomment-1750333721) in [mlange-42/track](https://github.com/mlange-42/track)
-3. 💪 Opened PR [#147](https://github.com/mlange-42/track/pull/147) in [mlange-42/track](https://github.com/mlange-42/track)
-4. 🗣 Commented on [#113](https://github.com/jamesgeorge007/github-activity-readme/pull/113#issuecomment-1741243761) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🎉 Merged PR [#113](https://github.com/jamesgeorge007/github-activity-readme/pull/113) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 🗣 Commented on [#1732](https://github.com/oauth2-proxy/oauth2-proxy/issues/1732#issuecomment-1752596928) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 🔓 Reopened issue [#1732](https://github.com/oauth2-proxy/oauth2-proxy/issues/1732) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. 🗣 Commented on [#1732](https://github.com/oauth2-proxy/oauth2-proxy/issues/1732#issuecomment-1752581460) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. 🗣 Commented on [#147](https://github.com/mlange-42/track/pull/147#issuecomment-1752549724) in [mlange-42/track](https://github.com/mlange-42/track)
+5. ❌ Closed PR [#148](https://github.com/mlange-42/track/pull/148) in [mlange-42/track](https://github.com/mlange-42/track)
 <!--END_SECTION:activity-->
