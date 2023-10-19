@@ -35,9 +35,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/seacrew/helm-compose/pull/45) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
-2. 🗣 Commented on [#2149](https://github.com/oauth2-proxy/oauth2-proxy/issues/2149#issuecomment-1765707317) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. 🗣 Commented on [#2243](https://github.com/oauth2-proxy/oauth2-proxy/issues/2243#issuecomment-1765701151) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-4. 🗣 Commented on [#2269](https://github.com/oauth2-proxy/oauth2-proxy/pull/2269#issuecomment-1763772255) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. 🗣 Commented on [#2268](https://github.com/oauth2-proxy/oauth2-proxy/issues/2268#issuecomment-1763769402) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 🗣 Commented on [#2274](https://github.com/oauth2-proxy/oauth2-proxy/pull/2274#issuecomment-1768982628) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 🗣 Commented on [#2167](https://github.com/oauth2-proxy/oauth2-proxy/issues/2167#issuecomment-1767667139) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. 🗣 Commented on [#2237](https://github.com/oauth2-proxy/oauth2-proxy/pull/2237#issuecomment-1767663186) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. 🗣 Commented on [#2237](https://github.com/oauth2-proxy/oauth2-proxy/pull/2237#issuecomment-1767663057) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. 🗣 Commented on [#2237](https://github.com/oauth2-proxy/oauth2-proxy/pull/2237#issuecomment-1767662555) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
