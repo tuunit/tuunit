@@ -14,8 +14,8 @@ jobs:
       - uses: actions/checkout@v3
       - name: Update stats graphics
         run: |
-          curl "https://tuunit-github-readme-stats.vercel.app/api?username=tuunit&custom_title=Jan%20Larwig&theme=dark&show_icons=true&card_width=450&icon_color=2596be&ring_color=2596be&include_all_commits=true&count_private=true&hide=stars&disable_animations=true" > general_dark.svg
-          curl "https://tuunit-github-readme-stats.vercel.app/api?username=tuunit&custom_title=Jan%20Larwig&show_icons=true&card_width=450&icon_color=2596be&ring_color=2596be&include_all_commits=true&count_private=true&hide=stars&disable_animations=true" > general_light.svg
+          curl "https://tuunit-github-readme-stats.vercel.app/api?username=tuunit&custom_title=Jan%20Larwig&theme=dark&show_icons=true&card_width=450&icon_color=2596be&ring_color=2596be&include_all_commits=true&count_private=true&hide=stars&show=reviews&disable_animations=true" > general_dark.svg
+          curl "https://tuunit-github-readme-stats.vercel.app/api?username=tuunit&custom_title=Jan%20Larwig&show_icons=true&card_width=450&icon_color=2596be&ring_color=2596be&include_all_commits=true&count_private=true&hide=stars&show=reviews&disable_animations=true" > general_light.svg
       - name: Commit stats graphics
         uses: EndBug/add-and-commit@v9
         with:
