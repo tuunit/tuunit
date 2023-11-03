@@ -35,9 +35,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2306](https://github.com/oauth2-proxy/oauth2-proxy/issues/2306#issuecomment-1789663501) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🗣 Commented on [#2295](https://github.com/oauth2-proxy/oauth2-proxy/pull/2295#issuecomment-1788941536) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. 🗣 Commented on [#12508](https://github.com/helm/helm/issues/12508#issuecomment-1788803216) in [helm/helm](https://github.com/helm/helm)
-4. 🗣 Commented on [#1022](https://github.com/oauth2-proxy/oauth2-proxy/issues/1022#issuecomment-1788495076) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. 🗣 Commented on [#2209](https://github.com/oauth2-proxy/oauth2-proxy/issues/2209#issuecomment-1788493310) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 🗣 Commented on [#12508](https://github.com/helm/helm/issues/12508#issuecomment-1790190180) in [helm/helm](https://github.com/helm/helm)
+2. 🗣 Commented on [#12508](https://github.com/helm/helm/issues/12508#issuecomment-1790160186) in [helm/helm](https://github.com/helm/helm)
+3. 🗣 Commented on [#2292](https://github.com/oauth2-proxy/oauth2-proxy/issues/2292#issuecomment-1790150741) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. 🗣 Commented on [#2306](https://github.com/oauth2-proxy/oauth2-proxy/issues/2306#issuecomment-1789663501) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. 🗣 Commented on [#2295](https://github.com/oauth2-proxy/oauth2-proxy/pull/2295#issuecomment-1788941536) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
