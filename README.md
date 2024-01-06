@@ -35,9 +35,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/onixpro/mkdocs-drawio-file/issues/16#issuecomment-1877927126) in [onixpro/mkdocs-drawio-file](https://github.com/onixpro/mkdocs-drawio-file)
-2. 🔒 Closed issue [#16](https://github.com/onixpro/mkdocs-drawio-file/issues/16) in [onixpro/mkdocs-drawio-file](https://github.com/onixpro/mkdocs-drawio-file)
-3. ❗ Opened issue [#16](https://github.com/onixpro/mkdocs-drawio-file/issues/16) in [onixpro/mkdocs-drawio-file](https://github.com/onixpro/mkdocs-drawio-file)
-4. 🗣 Commented on [#15](https://github.com/onixpro/mkdocs-drawio-file/pull/15#issuecomment-1877921299) in [onixpro/mkdocs-drawio-file](https://github.com/onixpro/mkdocs-drawio-file)
-5. 🗣 Commented on [#2234](https://github.com/oauth2-proxy/oauth2-proxy/issues/2234#issuecomment-1877829156) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 🗣 Commented on [#2295](https://github.com/oauth2-proxy/oauth2-proxy/pull/2295#issuecomment-1878427462) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 🗣 Commented on [#2295](https://github.com/oauth2-proxy/oauth2-proxy/pull/2295#issuecomment-1878424767) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. 🗣 Commented on [#16](https://github.com/onixpro/mkdocs-drawio-file/issues/16#issuecomment-1877927126) in [onixpro/mkdocs-drawio-file](https://github.com/onixpro/mkdocs-drawio-file)
+4. 🔒 Closed issue [#16](https://github.com/onixpro/mkdocs-drawio-file/issues/16) in [onixpro/mkdocs-drawio-file](https://github.com/onixpro/mkdocs-drawio-file)
+5. ❗ Opened issue [#16](https://github.com/onixpro/mkdocs-drawio-file/issues/16) in [onixpro/mkdocs-drawio-file](https://github.com/onixpro/mkdocs-drawio-file)
 <!--END_SECTION:activity-->
