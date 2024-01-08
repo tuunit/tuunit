@@ -35,9 +35,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2364](https://github.com/oauth2-proxy/oauth2-proxy/pull/2364#issuecomment-1879770052) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🗣 Commented on [#2295](https://github.com/oauth2-proxy/oauth2-proxy/pull/2295#issuecomment-1878427462) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. 🗣 Commented on [#2295](https://github.com/oauth2-proxy/oauth2-proxy/pull/2295#issuecomment-1878424767) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-4. 🗣 Commented on [#16](https://github.com/onixpro/mkdocs-drawio-file/issues/16#issuecomment-1877927126) in [onixpro/mkdocs-drawio-file](https://github.com/onixpro/mkdocs-drawio-file)
-5. 🔒 Closed issue [#16](https://github.com/onixpro/mkdocs-drawio-file/issues/16) in [onixpro/mkdocs-drawio-file](https://github.com/onixpro/mkdocs-drawio-file)
+1. 🗣 Commented on [#2377](https://github.com/oauth2-proxy/oauth2-proxy/pull/2377#issuecomment-1880121117) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 💪 Opened PR [#2378](https://github.com/oauth2-proxy/oauth2-proxy/pull/2378) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. 🗣 Commented on [#2305](https://github.com/oauth2-proxy/oauth2-proxy/pull/2305#issuecomment-1880118316) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. 🗣 Commented on [#2364](https://github.com/oauth2-proxy/oauth2-proxy/pull/2364#issuecomment-1880024808) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. 🗣 Commented on [#2364](https://github.com/oauth2-proxy/oauth2-proxy/pull/2364#issuecomment-1879770052) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
