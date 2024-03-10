@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Jan Larwig, Rank: B</title>
-        <desc id="descId">Total Commits  : 3, Total PRs: 87, Total PRs Reviewed: 78, Total Issues: 9</desc>
+        <desc id="descId">Total Commits  : 4, Total PRs: 87, Total PRs Reviewed: 78, Total Issues: 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 150.9090965116593;
+        stroke-dashoffset: 149.44550804038525;
       }
     }
   
