@@ -35,9 +35,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#532](https://github.com/oauth2-proxy/oauth2-proxy/issues/532) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🗣 Commented on [#2527](https://github.com/oauth2-proxy/oauth2-proxy/issues/2527#issuecomment-1966394147) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. 🗣 Commented on [#1](https://github.com/tuunit/mkdocs-drawio/issues/1#issuecomment-1964417575) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-4. 🔒 Closed issue [#1](https://github.com/tuunit/mkdocs-drawio/issues/1) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-5. 🎉 Merged PR [#2](https://github.com/tuunit/mkdocs-drawio/pull/2) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+1. 🗣 Commented on [#99](https://github.com/timvink/mkdocs-print-site-plugin/issues/99#issuecomment-2016834506) in [timvink/mkdocs-print-site-plugin](https://github.com/timvink/mkdocs-print-site-plugin)
+2. 💪 Opened PR [#100](https://github.com/timvink/mkdocs-print-site-plugin/pull/100) in [timvink/mkdocs-print-site-plugin](https://github.com/timvink/mkdocs-print-site-plugin)
+3. 🎉 Merged PR [#3](https://github.com/tuunit/mkdocs-drawio/pull/3) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+4. ❌ Closed PR [#80](https://github.com/seacrew/helm-compose/pull/80) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+5. 🎉 Merged PR [#86](https://github.com/seacrew/helm-compose/pull/86) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
 <!--END_SECTION:activity-->
