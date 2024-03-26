@@ -35,9 +35,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99](https://github.com/timvink/mkdocs-print-site-plugin/issues/99#issuecomment-2016834506) in [timvink/mkdocs-print-site-plugin](https://github.com/timvink/mkdocs-print-site-plugin)
-2. 💪 Opened PR [#100](https://github.com/timvink/mkdocs-print-site-plugin/pull/100) in [timvink/mkdocs-print-site-plugin](https://github.com/timvink/mkdocs-print-site-plugin)
-3. 🎉 Merged PR [#3](https://github.com/tuunit/mkdocs-drawio/pull/3) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-4. ❌ Closed PR [#80](https://github.com/seacrew/helm-compose/pull/80) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
-5. 🎉 Merged PR [#86](https://github.com/seacrew/helm-compose/pull/86) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+1. 🔓 Reopened issue [#2374](https://github.com/oauth2-proxy/oauth2-proxy/issues/2374) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 🔓 Reopened issue [#2384](https://github.com/oauth2-proxy/oauth2-proxy/issues/2384) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. ❌ Reopened PR [#2112](https://github.com/oauth2-proxy/oauth2-proxy/pull/2112) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. ❌ Reopened PR [#2122](https://github.com/oauth2-proxy/oauth2-proxy/pull/2122) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. ❌ Reopened PR [#2124](https://github.com/oauth2-proxy/oauth2-proxy/pull/2124) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
