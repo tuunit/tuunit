@@ -10,17 +10,28 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/jstrieb/github-stats">
   <picture>
     <source
-      srcset="https://raw.githubusercontent.com/tuunit/tuunit/main/general_dark.svg" 
+      srcset="https://raw.githubusercontent.com/tuunit/github-stats/master/generated/overview.svg#gh-dark-mode-only" 
       media="(prefers-color-scheme: dark)" 
     />
     <source
-      srcset="https://raw.githubusercontent.com/tuunit/tuunit/main/general_light.svg" 
+      srcset="https://raw.githubusercontent.com/tuunit/github-stats/master/generated/overview.svg#gh-light-mode-only" 
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
     />
-    <img src="https://raw.githubusercontent.com/tuunit/tuunit/main/general_light.svg" />
+    <img src="https://raw.githubusercontent.com/tuunit/github-stats/master/generated/overview.svg#gh-light-mode-only" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://raw.githubusercontent.com/tuunit/github-stats/master/generated/languages.svg#gh-dark-mode-only" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <source
+      srcset="https://raw.githubusercontent.com/tuunit/github-stats/master/generated/languages.svg#gh-light-mode-only" 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+    />
+    <img src="https://raw.githubusercontent.com/tuunit/github-stats/master/generated/languages.svg#gh-light-mode-only" />
   </picture>
 </a>
 
@@ -30,7 +41,7 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 - [#6875](https://github.com/GoogleCloudPlatform/magic-modules/pull/6875) in [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - google_container_cluster: add support for new GKE Gateway API controller
 - [#1510](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1510) in [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - feat!: support for gateway api
 - [#1927](https://github.com/oauth2-proxy/oauth2-proxy/issues/1927) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - Fix default scope settings for none oidc providers like GitHub
-- [#12196](https://github.com/oauth2-proxy/oauth2-proxy/issues/2196) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - Add GitHub groups (orgs/teams) support
+- [#2196](https://github.com/oauth2-proxy/oauth2-proxy/issues/2196) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - Add GitHub groups (orgs/teams) support
 
 ## 🔔 GitHub Activity
 
