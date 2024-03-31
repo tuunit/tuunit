@@ -35,9 +35,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#115](https://github.com/jamesgeorge007/github-activity-readme/pull/115#issuecomment-2025742567) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🚀 Published release [v0.4.4](https://github.com/jamesgeorge007/github-activity-readme/releases/tag/v0.4.4) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. 🔒 Closed issue [#103](https://github.com/jamesgeorge007/github-activity-readme/issues/103) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🎉 Merged PR [#115](https://github.com/jamesgeorge007/github-activity-readme/pull/115) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#115](https://github.com/jamesgeorge007/github-activity-readme/pull/115#issuecomment-2025701087) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 🔓 Reopened issue [#1297](https://github.com/oauth2-proxy/oauth2-proxy/issues/1297) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 🗣 Commented on [#2577](https://github.com/oauth2-proxy/oauth2-proxy/issues/2577#issuecomment-2028470433) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. 💪 Opened PR [#2578](https://github.com/oauth2-proxy/oauth2-proxy/pull/2578) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. 🗣 Commented on [#2577](https://github.com/oauth2-proxy/oauth2-proxy/issues/2577#issuecomment-2028094881) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. ❌ Reopened PR [#2399](https://github.com/oauth2-proxy/oauth2-proxy/pull/2399) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
