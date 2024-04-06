@@ -46,9 +46,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#1795](https://github.com/oauth2-proxy/oauth2-proxy/issues/1795) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🗣 Commented on [#1923](https://github.com/oauth2-proxy/oauth2-proxy/pull/1923#issuecomment-2035626314) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. ❌ Closed PR [#2560](https://github.com/oauth2-proxy/oauth2-proxy/pull/2560) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-4. 🗣 Commented on [#2583](https://github.com/oauth2-proxy/oauth2-proxy/pull/2583#issuecomment-2029605840) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. ❌ Closed PR [#2583](https://github.com/oauth2-proxy/oauth2-proxy/pull/2583) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 🗣 Commented on [#2113](https://github.com/oauth2-proxy/oauth2-proxy/pull/2113#issuecomment-2039051554) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 🔓 Reopened issue [#978](https://github.com/oauth2-proxy/oauth2-proxy/issues/978) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. 🔓 Reopened issue [#1795](https://github.com/oauth2-proxy/oauth2-proxy/issues/1795) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. 🗣 Commented on [#1923](https://github.com/oauth2-proxy/oauth2-proxy/pull/1923#issuecomment-2035626314) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. ❌ Closed PR [#2560](https://github.com/oauth2-proxy/oauth2-proxy/pull/2560) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
