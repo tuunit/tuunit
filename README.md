@@ -46,9 +46,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/tuunit/oauth2-proxy/pull/8) in [tuunit/oauth2-proxy](https://github.com/tuunit/oauth2-proxy)
-2. 💪 Opened PR [#2630](https://github.com/oauth2-proxy/oauth2-proxy/pull/2630) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. 💪 Opened PR [#7](https://github.com/tuunit/oauth2-proxy/pull/7) in [tuunit/oauth2-proxy](https://github.com/tuunit/oauth2-proxy)
-4. 💪 Opened PR [#6](https://github.com/tuunit/oauth2-proxy/pull/6) in [tuunit/oauth2-proxy](https://github.com/tuunit/oauth2-proxy)
-5. 💪 Opened PR [#2629](https://github.com/oauth2-proxy/oauth2-proxy/pull/2629) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 💪 Opened PR [#2633](https://github.com/oauth2-proxy/oauth2-proxy/pull/2633) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 💪 Opened PR [#10](https://github.com/tuunit/oauth2-proxy/pull/10) in [tuunit/oauth2-proxy](https://github.com/tuunit/oauth2-proxy)
+3. 💪 Opened PR [#2632](https://github.com/oauth2-proxy/oauth2-proxy/pull/2632) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. 💪 Opened PR [#9](https://github.com/tuunit/oauth2-proxy/pull/9) in [tuunit/oauth2-proxy](https://github.com/tuunit/oauth2-proxy)
+5. 🎉 Merged PR [#104](https://github.com/seacrew/helm-compose/pull/104) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
 <!--END_SECTION:activity-->
