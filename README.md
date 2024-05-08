@@ -46,9 +46,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2633](https://github.com/oauth2-proxy/oauth2-proxy/pull/2633) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 💪 Opened PR [#10](https://github.com/tuunit/oauth2-proxy/pull/10) in [tuunit/oauth2-proxy](https://github.com/tuunit/oauth2-proxy)
-3. 💪 Opened PR [#2632](https://github.com/oauth2-proxy/oauth2-proxy/pull/2632) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-4. 💪 Opened PR [#9](https://github.com/tuunit/oauth2-proxy/pull/9) in [tuunit/oauth2-proxy](https://github.com/tuunit/oauth2-proxy)
-5. 🎉 Merged PR [#104](https://github.com/seacrew/helm-compose/pull/104) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+1. 🗣 Commented on [#4](https://github.com/tuunit/mkdocs-drawio/issues/4#issuecomment-2099478634) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+2. 🗣 Commented on [#4](https://github.com/tuunit/mkdocs-drawio/issues/4#issuecomment-2099473507) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+3. 🎉 Merged PR [#5](https://github.com/tuunit/mkdocs-drawio/pull/5) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+4. 💪 Opened PR [#5](https://github.com/tuunit/mkdocs-drawio/pull/5) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+5. 💪 Opened PR [#2633](https://github.com/oauth2-proxy/oauth2-proxy/pull/2633) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
