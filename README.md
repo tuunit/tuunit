@@ -46,9 +46,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/tuunit/mkdocs-drawio/issues/7#issuecomment-2233570575) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-2. 🔒 Closed issue [#7](https://github.com/tuunit/mkdocs-drawio/issues/7) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-3. 🎉 Merged PR [#8](https://github.com/tuunit/mkdocs-drawio/pull/8) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-4. ❌ Reopened PR [#1985](https://github.com/oauth2-proxy/oauth2-proxy/pull/1985) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. 🗣 Commented on [#2701](https://github.com/oauth2-proxy/oauth2-proxy/pull/2701#issuecomment-2227466225) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 🗣 Commented on [#7](https://github.com/tuunit/mkdocs-drawio/issues/7#issuecomment-2239900511) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+2. 🗣 Commented on [#9](https://github.com/tuunit/mkdocs-drawio/issues/9#issuecomment-2239878003) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+3. 🗣 Commented on [#9](https://github.com/tuunit/mkdocs-drawio/issues/9#issuecomment-2239872822) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+4. 🗣 Commented on [#2555](https://github.com/oauth2-proxy/oauth2-proxy/issues/2555#issuecomment-2239200003) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. 🗣 Commented on [#2555](https://github.com/oauth2-proxy/oauth2-proxy/issues/2555#issuecomment-2239159992) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
