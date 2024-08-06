@@ -46,9 +46,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7420](https://github.com/squidfunk/mkdocs-material/pull/7420#issuecomment-2267572887) in [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)
-2. 🗣 Commented on [#11](https://github.com/tuunit/mkdocs-drawio/issues/11#issuecomment-2267561759) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-3. 🔒 Closed issue [#11](https://github.com/tuunit/mkdocs-drawio/issues/11) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-4. 🎉 Merged PR [#12](https://github.com/tuunit/mkdocs-drawio/pull/12) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-5. 💪 Opened PR [#12](https://github.com/tuunit/mkdocs-drawio/pull/12) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+1. 🗣 Commented on [#2302](https://github.com/oauth2-proxy/oauth2-proxy/pull/2302#issuecomment-2269885678) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. ❌ Reopened PR [#2378](https://github.com/oauth2-proxy/oauth2-proxy/pull/2378) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. ❌ Reopened PR [#2633](https://github.com/oauth2-proxy/oauth2-proxy/pull/2633) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. 🔓 Reopened issue [#2552](https://github.com/oauth2-proxy/oauth2-proxy/issues/2552) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. 🔓 Reopened issue [#2553](https://github.com/oauth2-proxy/oauth2-proxy/issues/2553) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
