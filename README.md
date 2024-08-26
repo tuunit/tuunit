@@ -2,7 +2,7 @@
 
 ## Coder, Open Sourcerer, Teacher
 
-I'm a Software Engineer with a passion for open source and teaching. I've been coding for over 13 years and love to share my knowledge about software architecture and design. My favourite language right now is Go, closely followed by Python. Other than that I've used quite a mixed bunch of languages by now. You could say I'm coding polyglot, ranging over all the major C flavours (C++, C#, C), Java, TypeScript, Go, Python, Shell and even some PHP and Ruby.
+I'm a Software Engineer with a passion for open source and teaching. I've been coding for over 15 years and love to share my knowledge about software architecture and design. My favourite language right now is Go, closely followed by Python. Other than that I've used quite a mixed bunch of languages by now. You could say I'm coding polyglot, ranging over all the major C flavours (C++, C#, C), Java, TypeScript, Go, Python, Shell and even some PHP and Ruby.
 
 - 🌍 I'm based in Germany (for now)
 - 💻 I'm currently working on [helm-compose](https://seacrew.github.io/helm-compose/) and [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
