@@ -46,9 +46,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2778](https://github.com/oauth2-proxy/oauth2-proxy/issues/2778#issuecomment-2353564690) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🔒 Closed issue [#2779](https://github.com/oauth2-proxy/oauth2-proxy/issues/2779) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. 🗣 Commented on [#2390](https://github.com/oauth2-proxy/oauth2-proxy/pull/2390#issuecomment-2351440078) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-4. ❌ Reopened PR [#2576](https://github.com/oauth2-proxy/oauth2-proxy/pull/2576) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. ❌ Reopened PR [#1751](https://github.com/oauth2-proxy/oauth2-proxy/pull/1751) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 🗣 Commented on [#134](https://github.com/seacrew/helm-compose/issues/134#issuecomment-2355876405) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+2. 🗣 Commented on [#231](https://github.com/jgraph/www.diagrams.net-source/pull/231#issuecomment-2355769526) in [jgraph/www.diagrams.net-source](https://github.com/jgraph/www.diagrams.net-source)
+3. ❌ Closed PR [#231](https://github.com/jgraph/www.diagrams.net-source/pull/231) in [jgraph/www.diagrams.net-source](https://github.com/jgraph/www.diagrams.net-source)
+4. 🗣 Commented on [#134](https://github.com/seacrew/helm-compose/issues/134#issuecomment-2355736037) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+5. 🗣 Commented on [#134](https://github.com/seacrew/helm-compose/issues/134#issuecomment-2355718072) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
 <!--END_SECTION:activity-->
