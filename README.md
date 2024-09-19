@@ -46,9 +46,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#134](https://github.com/seacrew/helm-compose/issues/134#issuecomment-2355876405) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
-2. 🗣 Commented on [#231](https://github.com/jgraph/www.diagrams.net-source/pull/231#issuecomment-2355769526) in [jgraph/www.diagrams.net-source](https://github.com/jgraph/www.diagrams.net-source)
-3. ❌ Closed PR [#231](https://github.com/jgraph/www.diagrams.net-source/pull/231) in [jgraph/www.diagrams.net-source](https://github.com/jgraph/www.diagrams.net-source)
-4. 🗣 Commented on [#134](https://github.com/seacrew/helm-compose/issues/134#issuecomment-2355736037) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
-5. 🗣 Commented on [#134](https://github.com/seacrew/helm-compose/issues/134#issuecomment-2355718072) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+1. 🗣 Commented on [#16689](https://github.com/argoproj/argo-cd/pull/16689#issuecomment-2358269821) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+2. 🗣 Commented on [#134](https://github.com/seacrew/helm-compose/issues/134#issuecomment-2355876405) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+3. 🗣 Commented on [#231](https://github.com/jgraph/www.diagrams.net-source/pull/231#issuecomment-2355769526) in [jgraph/www.diagrams.net-source](https://github.com/jgraph/www.diagrams.net-source)
+4. ❌ Closed PR [#231](https://github.com/jgraph/www.diagrams.net-source/pull/231) in [jgraph/www.diagrams.net-source](https://github.com/jgraph/www.diagrams.net-source)
+5. 🗣 Commented on [#134](https://github.com/seacrew/helm-compose/issues/134#issuecomment-2355736037) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
 <!--END_SECTION:activity-->
