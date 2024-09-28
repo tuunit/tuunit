@@ -46,9 +46,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#1663](https://github.com/oauth2-proxy/oauth2-proxy/issues/1663) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🎉 Merged PR [#2759](https://github.com/oauth2-proxy/oauth2-proxy/pull/2759) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. 🎉 Merged PR [#2768](https://github.com/oauth2-proxy/oauth2-proxy/pull/2768) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-4. 🗣 Commented on [#2777](https://github.com/oauth2-proxy/oauth2-proxy/pull/2777#issuecomment-2368417571) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. 💪 Opened PR [#2790](https://github.com/oauth2-proxy/oauth2-proxy/pull/2790) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 🗣 Commented on [#9490](https://github.com/kubernetes/dashboard/pull/9490#issuecomment-2378785559) in [kubernetes/dashboard](https://github.com/kubernetes/dashboard)
+2. 💪 Opened PR [#9490](https://github.com/kubernetes/dashboard/pull/9490) in [kubernetes/dashboard](https://github.com/kubernetes/dashboard)
+3. 🔓 Reopened issue [#1663](https://github.com/oauth2-proxy/oauth2-proxy/issues/1663) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. 🎉 Merged PR [#2759](https://github.com/oauth2-proxy/oauth2-proxy/pull/2759) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. 🎉 Merged PR [#2768](https://github.com/oauth2-proxy/oauth2-proxy/pull/2768) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
