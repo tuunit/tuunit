@@ -46,9 +46,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2800](https://github.com/oauth2-proxy/oauth2-proxy/pull/2800) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🗣 Commented on [#2755](https://github.com/oauth2-proxy/oauth2-proxy/pull/2755#issuecomment-2402251785) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. 🗣 Commented on [#13](https://github.com/tuunit/mkdocs-drawio/issues/13#issuecomment-2401850060) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-4. 🔒 Closed issue [#13](https://github.com/tuunit/mkdocs-drawio/issues/13) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-5. 🎉 Merged PR [#15](https://github.com/tuunit/mkdocs-drawio/pull/15) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+1. 🔓 Reopened issue [#1522](https://github.com/oauth2-proxy/oauth2-proxy/issues/1522) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 🔓 Reopened issue [#2384](https://github.com/oauth2-proxy/oauth2-proxy/issues/2384) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. 🎉 Merged PR [#14](https://github.com/tuunit/mkdocs-drawio/pull/14) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+4. 🎉 Merged PR [#2800](https://github.com/oauth2-proxy/oauth2-proxy/pull/2800) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. 🗣 Commented on [#2755](https://github.com/oauth2-proxy/oauth2-proxy/pull/2755#issuecomment-2402251785) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
