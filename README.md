@@ -46,9 +46,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#11315](https://github.com/kubernetes-sigs/cluster-api/issues/11315) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-2. 💪 Opened PR [#2826](https://github.com/oauth2-proxy/oauth2-proxy/pull/2826) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. 🗣 Commented on [#2811](https://github.com/kubernetes-sigs/cluster-api/issues/2811#issuecomment-2413510864) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-4. 🔓 Reopened issue [#1795](https://github.com/oauth2-proxy/oauth2-proxy/issues/1795) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. ❌ Reopened PR [#2524](https://github.com/oauth2-proxy/oauth2-proxy/pull/2524) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 🗣 Commented on [#2389](https://github.com/flatcar/scripts/pull/2389#issuecomment-2428616586) in [flatcar/scripts](https://github.com/flatcar/scripts)
+2. 💪 Opened PR [#2389](https://github.com/flatcar/scripts/pull/2389) in [flatcar/scripts](https://github.com/flatcar/scripts)
+3. 💪 Opened PR [#100](https://github.com/flatcar/bootengine/pull/100) in [flatcar/bootengine](https://github.com/flatcar/bootengine)
+4. 💪 Opened PR [#29](https://github.com/flatcar/coreos-cloudinit/pull/29) in [flatcar/coreos-cloudinit](https://github.com/flatcar/coreos-cloudinit)
+5. 💪 Opened PR [#126](https://github.com/flatcar/init/pull/126) in [flatcar/init](https://github.com/flatcar/init)
 <!--END_SECTION:activity-->
