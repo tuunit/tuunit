@@ -46,9 +46,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2389](https://github.com/flatcar/scripts/pull/2389#issuecomment-2428616586) in [flatcar/scripts](https://github.com/flatcar/scripts)
-2. 💪 Opened PR [#2389](https://github.com/flatcar/scripts/pull/2389) in [flatcar/scripts](https://github.com/flatcar/scripts)
-3. 💪 Opened PR [#100](https://github.com/flatcar/bootengine/pull/100) in [flatcar/bootengine](https://github.com/flatcar/bootengine)
-4. 💪 Opened PR [#29](https://github.com/flatcar/coreos-cloudinit/pull/29) in [flatcar/coreos-cloudinit](https://github.com/flatcar/coreos-cloudinit)
-5. 💪 Opened PR [#126](https://github.com/flatcar/init/pull/126) in [flatcar/init](https://github.com/flatcar/init)
+1. 🗣 Commented on [#2390](https://github.com/oauth2-proxy/oauth2-proxy/pull/2390#issuecomment-2440094579) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 🎉 Merged PR [#2598](https://github.com/oauth2-proxy/oauth2-proxy/pull/2598) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. 🗣 Commented on [#2389](https://github.com/flatcar/scripts/pull/2389#issuecomment-2428616586) in [flatcar/scripts](https://github.com/flatcar/scripts)
+4. 💪 Opened PR [#2389](https://github.com/flatcar/scripts/pull/2389) in [flatcar/scripts](https://github.com/flatcar/scripts)
+5. 💪 Opened PR [#100](https://github.com/flatcar/bootengine/pull/100) in [flatcar/bootengine](https://github.com/flatcar/bootengine)
 <!--END_SECTION:activity-->
