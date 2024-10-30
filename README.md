@@ -46,9 +46,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2390](https://github.com/oauth2-proxy/oauth2-proxy/pull/2390#issuecomment-2440094579) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🎉 Merged PR [#2598](https://github.com/oauth2-proxy/oauth2-proxy/pull/2598) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. 🗣 Commented on [#2389](https://github.com/flatcar/scripts/pull/2389#issuecomment-2428616586) in [flatcar/scripts](https://github.com/flatcar/scripts)
-4. 💪 Opened PR [#2389](https://github.com/flatcar/scripts/pull/2389) in [flatcar/scripts](https://github.com/flatcar/scripts)
-5. 💪 Opened PR [#100](https://github.com/flatcar/bootengine/pull/100) in [flatcar/bootengine](https://github.com/flatcar/bootengine)
+1. 🗣 Commented on [#2819](https://github.com/oauth2-proxy/oauth2-proxy/pull/2819#issuecomment-2444447645) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 🗣 Commented on [#2746](https://github.com/oauth2-proxy/oauth2-proxy/pull/2746#issuecomment-2442511153) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. ❌ Closed PR [#2746](https://github.com/oauth2-proxy/oauth2-proxy/pull/2746) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. 🗣 Commented on [#2390](https://github.com/oauth2-proxy/oauth2-proxy/pull/2390#issuecomment-2440094579) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. 🎉 Merged PR [#2598](https://github.com/oauth2-proxy/oauth2-proxy/pull/2598) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
