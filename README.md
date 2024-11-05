@@ -51,9 +51,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1957](https://github.com/coreos/ignition/pull/1957#issuecomment-2454555073) in [coreos/ignition](https://github.com/coreos/ignition)
-2. 💪 Opened PR [#127](https://github.com/flatcar/init/pull/127) in [flatcar/init](https://github.com/flatcar/init)
-3. ❌ Closed PR [#126](https://github.com/flatcar/init/pull/126) in [flatcar/init](https://github.com/flatcar/init)
-4. ❌ Reopened PR [#29](https://github.com/flatcar/coreos-cloudinit/pull/29) in [flatcar/coreos-cloudinit](https://github.com/flatcar/coreos-cloudinit)
-5. ❌ Closed PR [#29](https://github.com/flatcar/coreos-cloudinit/pull/29) in [flatcar/coreos-cloudinit](https://github.com/flatcar/coreos-cloudinit)
+1. 🎉 Merged PR [#2821](https://github.com/oauth2-proxy/oauth2-proxy/pull/2821) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 🗣 Commented on [#2835](https://github.com/oauth2-proxy/oauth2-proxy/pull/2835#issuecomment-2455824206) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. ❌ Closed PR [#2835](https://github.com/oauth2-proxy/oauth2-proxy/pull/2835) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. 🎉 Merged PR [#2300](https://github.com/oauth2-proxy/oauth2-proxy/pull/2300) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. 🗣 Commented on [#2300](https://github.com/oauth2-proxy/oauth2-proxy/pull/2300#issuecomment-2455806448) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
