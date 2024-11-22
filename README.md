@@ -51,9 +51,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#253](https://github.com/oauth2-proxy/manifests/pull/253) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-2. 🗣 Commented on [#2851](https://github.com/oauth2-proxy/oauth2-proxy/pull/2851#issuecomment-2478676962) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. 🔓 Reopened issue [#1942](https://github.com/oauth2-proxy/oauth2-proxy/issues/1942) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-4. 🗣 Commented on [#2825](https://github.com/oauth2-proxy/oauth2-proxy/issues/2825#issuecomment-2472445813) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. 🗣 Commented on [#2850](https://github.com/oauth2-proxy/oauth2-proxy/pull/2850#issuecomment-2472445113) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 🎉 Merged PR [#255](https://github.com/oauth2-proxy/manifests/pull/255) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+2. 🎉 Merged PR [#118](https://github.com/jamesgeorge007/github-activity-readme/pull/118) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 🎉 Merged PR [#253](https://github.com/oauth2-proxy/manifests/pull/253) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+4. 🗣 Commented on [#2851](https://github.com/oauth2-proxy/oauth2-proxy/pull/2851#issuecomment-2478676962) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. 🔓 Reopened issue [#1942](https://github.com/oauth2-proxy/oauth2-proxy/issues/1942) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
