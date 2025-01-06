@@ -51,9 +51,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#1640](https://github.com/oauth2-proxy/oauth2-proxy/issues/1640) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🎉 Merged PR [#2880](https://github.com/oauth2-proxy/oauth2-proxy/pull/2880) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. 🎉 Merged PR [#2871](https://github.com/oauth2-proxy/oauth2-proxy/pull/2871) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-4. ❌ Closed PR [#2854](https://github.com/oauth2-proxy/oauth2-proxy/pull/2854) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. 🎉 Merged PR [#2877](https://github.com/oauth2-proxy/oauth2-proxy/pull/2877) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 🗣 Commented on [#16](https://github.com/tuunit/mkdocs-drawio/issues/16#issuecomment-2571666265) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+2. 🗣 Commented on [#10](https://github.com/onixpro/mkdocs-drawio-file/issues/10#issuecomment-2571663558) in [onixpro/mkdocs-drawio-file](https://github.com/onixpro/mkdocs-drawio-file)
+3. 🗣 Commented on [#11](https://github.com/onixpro/mkdocs-drawio-file/issues/11#issuecomment-2571663185) in [onixpro/mkdocs-drawio-file](https://github.com/onixpro/mkdocs-drawio-file)
+4. 🗣 Commented on [#12](https://github.com/onixpro/mkdocs-drawio-file/issues/12#issuecomment-2571662670) in [onixpro/mkdocs-drawio-file](https://github.com/onixpro/mkdocs-drawio-file)
+5. 🗣 Commented on [#19](https://github.com/onixpro/mkdocs-drawio-file/issues/19#issuecomment-2571662185) in [onixpro/mkdocs-drawio-file](https://github.com/onixpro/mkdocs-drawio-file)
 <!--END_SECTION:activity-->
