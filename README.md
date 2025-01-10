@@ -51,9 +51,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21385](https://github.com/goharbor/harbor/pull/21385#issuecomment-2577324569) in [goharbor/harbor](https://github.com/goharbor/harbor)
-2. 🗣 Commented on [#21385](https://github.com/goharbor/harbor/pull/21385#issuecomment-2575061885) in [goharbor/harbor](https://github.com/goharbor/harbor)
-3. 💪 Opened PR [#21385](https://github.com/goharbor/harbor/pull/21385) in [goharbor/harbor](https://github.com/goharbor/harbor)
-4. 🗣 Commented on [#16](https://github.com/tuunit/mkdocs-drawio/issues/16#issuecomment-2571666265) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-5. 🗣 Commented on [#10](https://github.com/onixpro/mkdocs-drawio-file/issues/10#issuecomment-2571663558) in [onixpro/mkdocs-drawio-file](https://github.com/onixpro/mkdocs-drawio-file)
+1. 🗣 Commented on [#2908](https://github.com/oauth2-proxy/oauth2-proxy/issues/2908#issuecomment-2579501878) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 🗣 Commented on [#21385](https://github.com/goharbor/harbor/pull/21385#issuecomment-2579434546) in [goharbor/harbor](https://github.com/goharbor/harbor)
+3. 🎉 Merged PR [#2907](https://github.com/oauth2-proxy/oauth2-proxy/pull/2907) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. 🗣 Commented on [#2767](https://github.com/oauth2-proxy/oauth2-proxy/pull/2767#issuecomment-2578639383) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. 🎉 Merged PR [#2731](https://github.com/oauth2-proxy/oauth2-proxy/pull/2731) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
