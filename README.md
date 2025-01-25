@@ -51,9 +51,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#270](https://github.com/ionos-cloud/cluster-api-provider-ionoscloud/pull/270) in [ionos-cloud/cluster-api-provider-ionoscloud](https://github.com/ionos-cloud/cluster-api-provider-ionoscloud)
-2. 💪 Opened PR [#21452](https://github.com/goharbor/harbor/pull/21452) in [goharbor/harbor](https://github.com/goharbor/harbor)
-3. 💪 Opened PR [#21449](https://github.com/goharbor/harbor/pull/21449) in [goharbor/harbor](https://github.com/goharbor/harbor)
-4. ❌ Closed PR [#2931](https://github.com/oauth2-proxy/oauth2-proxy/pull/2931) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. 🎉 Merged PR [#2934](https://github.com/oauth2-proxy/oauth2-proxy/pull/2934) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 🗣 Commented on [#2833](https://github.com/oauth2-proxy/oauth2-proxy/issues/2833#issuecomment-2610863480) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 💪 Opened PR [#270](https://github.com/ionos-cloud/cluster-api-provider-ionoscloud/pull/270) in [ionos-cloud/cluster-api-provider-ionoscloud](https://github.com/ionos-cloud/cluster-api-provider-ionoscloud)
+3. 💪 Opened PR [#21452](https://github.com/goharbor/harbor/pull/21452) in [goharbor/harbor](https://github.com/goharbor/harbor)
+4. 💪 Opened PR [#21449](https://github.com/goharbor/harbor/pull/21449) in [goharbor/harbor](https://github.com/goharbor/harbor)
+5. ❌ Closed PR [#2931](https://github.com/oauth2-proxy/oauth2-proxy/pull/2931) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
