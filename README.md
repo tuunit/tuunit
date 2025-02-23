@@ -51,9 +51,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2963](https://github.com/oauth2-proxy/oauth2-proxy/issues/2963#issuecomment-2668820218) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🗣 Commented on [#1957](https://github.com/coreos/ignition/pull/1957#issuecomment-2662697196) in [coreos/ignition](https://github.com/coreos/ignition)
-3. 💪 Opened PR [#71](https://github.com/go-viper/mapstructure/pull/71) in [go-viper/mapstructure](https://github.com/go-viper/mapstructure)
-4. 💪 Opened PR [#2018](https://github.com/coreos/ignition/pull/2018) in [coreos/ignition](https://github.com/coreos/ignition)
-5. 🗣 Commented on [#2833](https://github.com/oauth2-proxy/oauth2-proxy/issues/2833#issuecomment-2651903991) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 🎉 Merged PR [#288](https://github.com/oauth2-proxy/manifests/pull/288) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+2. 🗣 Commented on [#288](https://github.com/oauth2-proxy/manifests/pull/288#issuecomment-2676328458) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+3. 🎉 Merged PR [#24](https://github.com/tuunit/mkdocs-drawio/pull/24) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+4. 💪 Opened PR [#24](https://github.com/tuunit/mkdocs-drawio/pull/24) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+5. 🔒 Closed issue [#22](https://github.com/tuunit/mkdocs-drawio/issues/22) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
 <!--END_SECTION:activity-->
