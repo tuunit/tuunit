@@ -51,9 +51,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#100](https://github.com/ionos-cloud/octopinger/pull/100) in [ionos-cloud/octopinger](https://github.com/ionos-cloud/octopinger)
-2. 🎉 Merged PR [#288](https://github.com/oauth2-proxy/manifests/pull/288) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-3. 🗣 Commented on [#288](https://github.com/oauth2-proxy/manifests/pull/288#issuecomment-2676328458) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-4. 🎉 Merged PR [#24](https://github.com/tuunit/mkdocs-drawio/pull/24) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-5. 💪 Opened PR [#24](https://github.com/tuunit/mkdocs-drawio/pull/24) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+1. 🔒 Closed issue [#25](https://github.com/tuunit/mkdocs-drawio/issues/25) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+2. 🎉 Merged PR [#26](https://github.com/tuunit/mkdocs-drawio/pull/26) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+3. 💪 Opened PR [#100](https://github.com/ionos-cloud/octopinger/pull/100) in [ionos-cloud/octopinger](https://github.com/ionos-cloud/octopinger)
+4. 🎉 Merged PR [#288](https://github.com/oauth2-proxy/manifests/pull/288) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+5. 🗣 Commented on [#288](https://github.com/oauth2-proxy/manifests/pull/288#issuecomment-2676328458) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 <!--END_SECTION:activity-->
