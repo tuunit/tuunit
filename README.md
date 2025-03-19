@@ -51,9 +51,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#113](https://github.com/ionos-cloud/octopinger/pull/113) in [ionos-cloud/octopinger](https://github.com/ionos-cloud/octopinger)
-2. ❌ Closed PR [#112](https://github.com/ionos-cloud/octopinger/pull/112) in [ionos-cloud/octopinger](https://github.com/ionos-cloud/octopinger)
-3. ❌ Closed PR [#111](https://github.com/ionos-cloud/octopinger/pull/111) in [ionos-cloud/octopinger](https://github.com/ionos-cloud/octopinger)
-4. ❌ Closed PR [#110](https://github.com/ionos-cloud/octopinger/pull/110) in [ionos-cloud/octopinger](https://github.com/ionos-cloud/octopinger)
-5. ❌ Closed PR [#109](https://github.com/ionos-cloud/octopinger/pull/109) in [ionos-cloud/octopinger](https://github.com/ionos-cloud/octopinger)
+1. 🎉 Merged PR [#2992](https://github.com/oauth2-proxy/oauth2-proxy/pull/2992) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 🎉 Merged PR [#2982](https://github.com/oauth2-proxy/oauth2-proxy/pull/2982) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. 💪 Opened PR [#2310](https://github.com/dadrus/heimdall/pull/2310) in [dadrus/heimdall](https://github.com/dadrus/heimdall)
+4. ❌ Closed PR [#113](https://github.com/ionos-cloud/octopinger/pull/113) in [ionos-cloud/octopinger](https://github.com/ionos-cloud/octopinger)
+5. ❌ Closed PR [#112](https://github.com/ionos-cloud/octopinger/pull/112) in [ionos-cloud/octopinger](https://github.com/ionos-cloud/octopinger)
 <!--END_SECTION:activity-->
