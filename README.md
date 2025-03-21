@@ -51,9 +51,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#122](https://github.com/jamesgeorge007/github-activity-readme/issues/122#issuecomment-2737671492) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🔒 Closed issue [#122](https://github.com/jamesgeorge007/github-activity-readme/issues/122) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. 🗣 Commented on [#122](https://github.com/jamesgeorge007/github-activity-readme/issues/122#issuecomment-2737547195) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🗣 Commented on [#122](https://github.com/jamesgeorge007/github-activity-readme/issues/122#issuecomment-2737544827) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#122](https://github.com/jamesgeorge007/github-activity-readme/issues/122#issuecomment-2737528289) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 🎉 Merged PR [#2952](https://github.com/oauth2-proxy/oauth2-proxy/pull/2952) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 🗣 Commented on [#5](https://github.com/oauth2-proxy/tools/issues/5#issuecomment-2738066837) in [oauth2-proxy/tools](https://github.com/oauth2-proxy/tools)
+3. 🗣 Commented on [#122](https://github.com/jamesgeorge007/github-activity-readme/issues/122#issuecomment-2737671492) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. 🔒 Closed issue [#122](https://github.com/jamesgeorge007/github-activity-readme/issues/122) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5. 🗣 Commented on [#122](https://github.com/jamesgeorge007/github-activity-readme/issues/122#issuecomment-2737547195) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
