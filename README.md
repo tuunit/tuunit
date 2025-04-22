@@ -51,9 +51,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/ansible-community/awx-operator-helm/issues/49#issuecomment-2800090349) in [ansible-community/awx-operator-helm](https://github.com/ansible-community/awx-operator-helm)
-2. 🎉 Merged PR [#3030](https://github.com/oauth2-proxy/oauth2-proxy/pull/3030) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. 💪 Opened PR [#27](https://github.com/tuunit/mkdocs-drawio/pull/27) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-4. 🗣 Commented on [#160](https://github.com/seacrew/helm-compose/issues/160#issuecomment-2798994195) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
-5. 🚀 Published release [1.4.0](https://github.com/seacrew/helm-compose/releases/tag/1.4.0) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+1. 🗣 Commented on [#3](https://github.com/tuunit/oauth2-proxy-automation/pull/3#issuecomment-2818479015) in [tuunit/oauth2-proxy-automation](https://github.com/tuunit/oauth2-proxy-automation)
+2. 🎉 Merged PR [#3035](https://github.com/oauth2-proxy/oauth2-proxy/pull/3035) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. 🗣 Commented on [#3](https://github.com/tuunit/oauth2-proxy-automation/pull/3#issuecomment-2818445393) in [tuunit/oauth2-proxy-automation](https://github.com/tuunit/oauth2-proxy-automation)
+4. 🗣 Commented on [#3](https://github.com/tuunit/oauth2-proxy-automation/pull/3#issuecomment-2818436968) in [tuunit/oauth2-proxy-automation](https://github.com/tuunit/oauth2-proxy-automation)
+5. 🗣 Commented on [#3](https://github.com/tuunit/oauth2-proxy-automation/pull/3#issuecomment-2818432270) in [tuunit/oauth2-proxy-automation](https://github.com/tuunit/oauth2-proxy-automation)
 <!--END_SECTION:activity-->
