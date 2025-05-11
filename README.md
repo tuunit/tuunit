@@ -51,9 +51,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#1836](https://github.com/oauth2-proxy/oauth2-proxy/issues/1836) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🗣 Commented on [#2947](https://github.com/oauth2-proxy/oauth2-proxy/pull/2947#issuecomment-2849300870) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. 🎉 Merged PR [#3051](https://github.com/oauth2-proxy/oauth2-proxy/pull/3051) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-4. 💪 Opened PR [#3051](https://github.com/oauth2-proxy/oauth2-proxy/pull/3051) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. 🗣 Commented on [#307](https://github.com/oauth2-proxy/manifests/issues/307#issuecomment-2844673473) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+1. 🗣 Commented on [#123](https://github.com/jamesgeorge007/github-activity-readme/pull/123#issuecomment-2869001609) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🗣 Commented on [#123](https://github.com/jamesgeorge007/github-activity-readme/pull/123#issuecomment-2868999663) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 🗣 Commented on [#21](https://github.com/onixpro/mkdocs-drawio-file/pull/21#issuecomment-2866409466) in [onixpro/mkdocs-drawio-file](https://github.com/onixpro/mkdocs-drawio-file)
+4. 🗣 Commented on [#14](https://github.com/onixpro/mkdocs-drawio-file/issues/14#issuecomment-2866396972) in [onixpro/mkdocs-drawio-file](https://github.com/onixpro/mkdocs-drawio-file)
+5. 🔓 Reopened issue [#1836](https://github.com/oauth2-proxy/oauth2-proxy/issues/1836) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
