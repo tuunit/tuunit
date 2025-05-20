@@ -51,9 +51,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/tuunit/mkdocs-drawio/pull/21#issuecomment-2889145282) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-2. 🎉 Merged PR [#27](https://github.com/tuunit/mkdocs-drawio/pull/27) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-3. 🗣 Commented on [#123](https://github.com/jamesgeorge007/github-activity-readme/pull/123#issuecomment-2869001609) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🗣 Commented on [#123](https://github.com/jamesgeorge007/github-activity-readme/pull/123#issuecomment-2868999663) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#21](https://github.com/onixpro/mkdocs-drawio-file/pull/21#issuecomment-2866409466) in [onixpro/mkdocs-drawio-file](https://github.com/onixpro/mkdocs-drawio-file)
+1. 💪 Opened PR [#29](https://github.com/tuunit/mkdocs-drawio/pull/29) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+2. ❌ Closed PR [#141](https://github.com/ionos-cloud/octopinger/pull/141) in [ionos-cloud/octopinger](https://github.com/ionos-cloud/octopinger)
+3. ❌ Closed PR [#140](https://github.com/ionos-cloud/octopinger/pull/140) in [ionos-cloud/octopinger](https://github.com/ionos-cloud/octopinger)
+4. ❌ Closed PR [#139](https://github.com/ionos-cloud/octopinger/pull/139) in [ionos-cloud/octopinger](https://github.com/ionos-cloud/octopinger)
+5. ❌ Closed PR [#138](https://github.com/ionos-cloud/octopinger/pull/138) in [ionos-cloud/octopinger](https://github.com/ionos-cloud/octopinger)
 <!--END_SECTION:activity-->
