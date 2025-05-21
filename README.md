@@ -51,9 +51,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/tuunit/mkdocs-drawio/pull/29) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-2. ❌ Closed PR [#141](https://github.com/ionos-cloud/octopinger/pull/141) in [ionos-cloud/octopinger](https://github.com/ionos-cloud/octopinger)
-3. ❌ Closed PR [#140](https://github.com/ionos-cloud/octopinger/pull/140) in [ionos-cloud/octopinger](https://github.com/ionos-cloud/octopinger)
-4. ❌ Closed PR [#139](https://github.com/ionos-cloud/octopinger/pull/139) in [ionos-cloud/octopinger](https://github.com/ionos-cloud/octopinger)
-5. ❌ Closed PR [#138](https://github.com/ionos-cloud/octopinger/pull/138) in [ionos-cloud/octopinger](https://github.com/ionos-cloud/octopinger)
+1. 🗣 Commented on [#49](https://github.com/ansible-community/awx-operator-helm/issues/49#issuecomment-2893478469) in [ansible-community/awx-operator-helm](https://github.com/ansible-community/awx-operator-helm)
+2. 🗣 Commented on [#21](https://github.com/tuunit/mkdocs-drawio/pull/21#issuecomment-2892220046) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+3. 🗣 Commented on [#21](https://github.com/tuunit/mkdocs-drawio/pull/21#issuecomment-2892136159) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+4. 🎉 Merged PR [#29](https://github.com/tuunit/mkdocs-drawio/pull/29) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+5. 💪 Opened PR [#29](https://github.com/tuunit/mkdocs-drawio/pull/29) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
 <!--END_SECTION:activity-->
