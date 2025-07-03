@@ -51,9 +51,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/go-viper/mapstructure/pull/71#issuecomment-3009858097) in [go-viper/mapstructure](https://github.com/go-viper/mapstructure)
-2. 🗣 Commented on [#71](https://github.com/go-viper/mapstructure/pull/71#issuecomment-3007539566) in [go-viper/mapstructure](https://github.com/go-viper/mapstructure)
-3. 🎉 Merged PR [#9](https://github.com/oauth2-proxy/tools/pull/9) in [oauth2-proxy/tools](https://github.com/oauth2-proxy/tools)
+1. 🗣 Commented on [#71](https://github.com/go-viper/mapstructure/pull/71#issuecomment-3026582977) in [go-viper/mapstructure](https://github.com/go-viper/mapstructure)
+2. 🗣 Commented on [#71](https://github.com/go-viper/mapstructure/pull/71#issuecomment-3009858097) in [go-viper/mapstructure](https://github.com/go-viper/mapstructure)
+3. 🗣 Commented on [#71](https://github.com/go-viper/mapstructure/pull/71#issuecomment-3007539566) in [go-viper/mapstructure](https://github.com/go-viper/mapstructure)
 4. 🎉 Merged PR [#3072](https://github.com/oauth2-proxy/oauth2-proxy/pull/3072) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 5. 🗣 Commented on [#3072](https://github.com/oauth2-proxy/oauth2-proxy/pull/3072#issuecomment-2919874767) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
