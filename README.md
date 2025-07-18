@@ -51,9 +51,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#742](https://github.com/wiremind/wiremind-helm-charts/pull/742#issuecomment-3072305733) in [wiremind/wiremind-helm-charts](https://github.com/wiremind/wiremind-helm-charts)
-2. 💪 Opened PR [#742](https://github.com/wiremind/wiremind-helm-charts/pull/742) in [wiremind/wiremind-helm-charts](https://github.com/wiremind/wiremind-helm-charts)
-3. 🗣 Commented on [#3103](https://github.com/oauth2-proxy/oauth2-proxy/issues/3103#issuecomment-3067283055) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-4. 🎉 Merged PR [#3097](https://github.com/oauth2-proxy/oauth2-proxy/pull/3097) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. 🎉 Merged PR [#2951](https://github.com/oauth2-proxy/oauth2-proxy/pull/2951) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 🎉 Merged PR [#321](https://github.com/oauth2-proxy/manifests/pull/321) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+2. 🗣 Commented on [#321](https://github.com/oauth2-proxy/manifests/pull/321#issuecomment-3084334239) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+3. 🗣 Commented on [#2273](https://github.com/oauth2-proxy/oauth2-proxy/pull/2273#issuecomment-3079969256) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. 🗣 Commented on [#742](https://github.com/wiremind/wiremind-helm-charts/pull/742#issuecomment-3072305733) in [wiremind/wiremind-helm-charts](https://github.com/wiremind/wiremind-helm-charts)
+5. 💪 Opened PR [#742](https://github.com/wiremind/wiremind-helm-charts/pull/742) in [wiremind/wiremind-helm-charts](https://github.com/wiremind/wiremind-helm-charts)
 <!--END_SECTION:activity-->
