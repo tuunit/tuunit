@@ -51,9 +51,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#346](https://github.com/oauth2-proxy/manifests/pull/346) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-2. 🗣 Commented on [#344](https://github.com/oauth2-proxy/manifests/issues/344#issuecomment-3209969555) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-3. 🗣 Commented on [#344](https://github.com/oauth2-proxy/manifests/issues/344#issuecomment-3209965357) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-4. 🗣 Commented on [#344](https://github.com/oauth2-proxy/manifests/issues/344#issuecomment-3209961968) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-5. 🗣 Commented on [#10322](https://github.com/kubernetes/dashboard/issues/10322#issuecomment-3209829794) in [kubernetes/dashboard](https://github.com/kubernetes/dashboard)
+1. 🗣 Commented on [#348](https://github.com/oauth2-proxy/manifests/issues/348#issuecomment-3233990084) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+2. 🔒 Closed issue [#349](https://github.com/oauth2-proxy/manifests/issues/349) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+3. 🗣 Commented on [#349](https://github.com/oauth2-proxy/manifests/issues/349#issuecomment-3233937149) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+4. 🗣 Commented on [#347](https://github.com/oauth2-proxy/manifests/issues/347#issuecomment-3233913016) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+5. 🗣 Commented on [#349](https://github.com/oauth2-proxy/manifests/issues/349#issuecomment-3233897208) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 <!--END_SECTION:activity-->
