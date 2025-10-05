@@ -51,9 +51,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#360](https://github.com/oauth2-proxy/manifests/issues/360#issuecomment-3355647965) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-2. 🎉 Merged PR [#357](https://github.com/oauth2-proxy/manifests/pull/357) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-3. 🗣 Commented on [#357](https://github.com/oauth2-proxy/manifests/pull/357#issuecomment-3353236455) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-4. 🔒 Closed issue [#355](https://github.com/oauth2-proxy/manifests/issues/355) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-5. 🎉 Merged PR [#356](https://github.com/oauth2-proxy/manifests/pull/356) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+1. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3368131679) in [cncf/sandbox](https://github.com/cncf/sandbox)
+2. 💪 Opened PR [#594](https://github.com/cncf/artwork/pull/594) in [cncf/artwork](https://github.com/cncf/artwork)
+3. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3368095533) in [cncf/sandbox](https://github.com/cncf/sandbox)
+4. 💪 Opened PR [#1144](https://github.com/cncf/foundation/pull/1144) in [cncf/foundation](https://github.com/cncf/foundation)
+5. 💪 Opened PR [#3220](https://github.com/oauth2-proxy/oauth2-proxy/pull/3220) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
