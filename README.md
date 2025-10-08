@@ -51,9 +51,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1144](https://github.com/cncf/foundation/pull/1144#issuecomment-3372315694) in [cncf/foundation](https://github.com/cncf/foundation)
-2. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3369167142) in [cncf/sandbox](https://github.com/cncf/sandbox)
-3. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3368480862) in [cncf/sandbox](https://github.com/cncf/sandbox)
-4. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3368131679) in [cncf/sandbox](https://github.com/cncf/sandbox)
-5. 💪 Opened PR [#594](https://github.com/cncf/artwork/pull/594) in [cncf/artwork](https://github.com/cncf/artwork)
+1. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3373523561) in [cncf/sandbox](https://github.com/cncf/sandbox)
+2. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3373296620) in [cncf/sandbox](https://github.com/cncf/sandbox)
+3. 🗣 Commented on [#1144](https://github.com/cncf/foundation/pull/1144#issuecomment-3372315694) in [cncf/foundation](https://github.com/cncf/foundation)
+4. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3369167142) in [cncf/sandbox](https://github.com/cncf/sandbox)
+5. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3368480862) in [cncf/sandbox](https://github.com/cncf/sandbox)
 <!--END_SECTION:activity-->
