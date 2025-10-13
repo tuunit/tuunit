@@ -51,9 +51,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40](https://github.com/tuunit/mkdocs-drawio/pull/40) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-2. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3383044214) in [cncf/sandbox](https://github.com/cncf/sandbox)
-3. 💪 Opened PR [#362](https://github.com/oauth2-proxy/manifests/pull/362) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-4. 🎉 Merged PR [#361](https://github.com/oauth2-proxy/manifests/pull/361) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-5. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3382241470) in [cncf/sandbox](https://github.com/cncf/sandbox)
+1. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3393330519) in [cncf/sandbox](https://github.com/cncf/sandbox)
+2. 💪 Opened PR [#599](https://github.com/cncf/artwork/pull/599) in [cncf/artwork](https://github.com/cncf/artwork)
+3. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3393292070) in [cncf/sandbox](https://github.com/cncf/sandbox)
+4. 💪 Opened PR [#40](https://github.com/tuunit/mkdocs-drawio/pull/40) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+5. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3383044214) in [cncf/sandbox](https://github.com/cncf/sandbox)
 <!--END_SECTION:activity-->
