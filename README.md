@@ -51,9 +51,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3393330519) in [cncf/sandbox](https://github.com/cncf/sandbox)
-2. 💪 Opened PR [#599](https://github.com/cncf/artwork/pull/599) in [cncf/artwork](https://github.com/cncf/artwork)
-3. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3393292070) in [cncf/sandbox](https://github.com/cncf/sandbox)
-4. 💪 Opened PR [#40](https://github.com/tuunit/mkdocs-drawio/pull/40) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-5. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3383044214) in [cncf/sandbox](https://github.com/cncf/sandbox)
+1. ❌ Reopened PR [#1332](https://github.com/oauth2-proxy/oauth2-proxy/pull/1332) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 🔓 Reopened issue [#1319](https://github.com/oauth2-proxy/oauth2-proxy/issues/1319) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. ❌ Reopened PR [#1838](https://github.com/oauth2-proxy/oauth2-proxy/pull/1838) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. 🗣 Commented on [#71](https://github.com/go-viper/mapstructure/pull/71#issuecomment-3397804003) in [go-viper/mapstructure](https://github.com/go-viper/mapstructure)
+5. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3393330519) in [cncf/sandbox](https://github.com/cncf/sandbox)
 <!--END_SECTION:activity-->
