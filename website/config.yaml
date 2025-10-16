@@ -1,0 +1,18 @@
+baseURL: "https://www.larwig.com"
+languageCode: "en-us"
+title: "Jan Larwig"
+theme: "simple"
+
+taxonomies: {}
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+outputs:
+  home: HTML
+  page: HTML
+  term: HTML
+  section: HTML
+  taxonomy: HTML

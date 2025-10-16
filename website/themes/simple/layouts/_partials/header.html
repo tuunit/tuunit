@@ -1,0 +1,15 @@
+<nav class="nav">
+    <a href="{{ "/" | relURL }}">Home</a>
+    <a href="{{ "/posts/" | relURL }}">Blog</a>
+    <a href="https://github.com/tuunit"><img src="{{ "icons/github.svg" | relURL }}" alt="GitHub" class="icon"></a>
+    <a href="https://linkedin.com/in/janlarwig"><img src="{{ "icons/linkedin.svg" | relURL }}" alt="GitHub" class="icon"></a>
+</nav>
+
+<h1 class="title">{{ .Title }}</h1>
+{{ with .Params.date }}
+<p class="post-date">{{ . | time.Format "Mon, Jan 2, 2006" }}</p>
+{{ end }}
+
+{{ with .Params.hero }}
+<img class="hero" src="{{ . }}" alt="">
+{{ end }}

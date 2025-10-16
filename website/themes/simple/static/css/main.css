@@ -1,0 +1,245 @@
+:root {
+  --font-family-heading: "Karla", sans-serif;
+  --font-family-paragraph: "Figtree", sans-serif;
+  --base-color: #FFFFFF;
+  --base-offset-color: #BABABA;
+  --highlight-color: #EA6A1F;
+  --heading-color: #121113;
+  --paragraph-color: #222725;
+  --code-background-color: #272822;
+}
+
+@font-face {
+  font-family: "Figtree";
+  src: url("/fonts/figtree/Figtree-VariableFont_wght.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Figtree";
+  src: url("/fonts/figtree/Figtree-VariableFont_wght.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Figtree";
+  src: url("/fonts/figtree/Figtree-VariableFont_wght.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Figtree";
+  src: url("/fonts/figtree/Figtree-VariableFont_wght.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Karla";
+  src: url("/fonts/karla/Karla-VariableFont_wght.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Karla";
+  src: url("/fonts/karla/Karla-VariableFont_wght.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Karla";
+  src: url("/fonts/karla/Karla-VariableFont_wght.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Karla";
+  src: url("/fonts/karla/Karla-VariableFont_wght.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 10px;
+  font-size: 20px;
+  font-family: var(--)
+}
+
+main ul li {
+  margin-bottom: 10px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+  font-family: var(--font-family-heading);
+  color: var(--heading-color);
+
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: 800;
+  margin-top: 30px;
+}
+
+header h1 {
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 30px;
+
+  padding-bottom: .25rem;
+  border-bottom: .25rem dotted var(--highlight-color);
+}
+
+p,
+li {
+  font-family: var(--font-family-paragraph);
+  font-size: 1rem;
+  line-height: 1.5rem;
+
+  color: var(--paragraph-color);
+}
+
+p strong {
+  color: var(--highlight-color);
+}
+
+p.post-date {
+  color: var(--base-offset-color);
+}
+
+a {
+  font-family: var(--font-family-heading);
+  font-weight: 600;
+  color: var(--heading-color);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--highlight-color);
+  text-decoration: underline;
+}
+
+footer {
+  text-align: right;
+}
+
+footer ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+footer li {
+  font-size: 0.75rem;
+  line-height: 1rem;
+}
+
+h1::after,
+h2::after,
+h3::after,
+h4::after,
+h5::after,
+h6::after {
+  content: ".";
+  color: var(--highlight-color);
+}
+
+header,
+main,
+footer {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+nav {
+  text-align: right;
+  margin-bottom: 20px;
+}
+
+nav a {
+  font-family: var(--font-family-heading);
+  font-weight: 600;
+  color: var(--heading-color);
+  text-decoration: none;
+  margin-left: 20px;
+}
+
+.nav a,
+.nav .icon {
+  display: inline-block;
+  vertical-align: bottom;
+  margin-left: 1rem;
+}
+
+.nav .icon {
+  width: 32px;
+  height: 32px;
+  margin: 0;
+}
+
+nav a:hover {
+  color: var(--highlight-color);
+  text-decoration: underline;
+}
+
+img {
+  width: 100%;
+  border-radius: 15px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+code {
+  text-wrap: wrap;
+}
+
+.highlight {
+  margin: 20px 0;
+  border-radius: 10px;
+  padding: 16px;
+  background-color: var(--code-background-color);
+}
+
+.highlight pre {
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  overflow-x: auto;
+}
+
+div.home ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+div.home ul li {
+  display: inline;
+}
+
+div.home ul li::after {
+  content: " ‧ ";
+  color: var(--highlight-color);
+}
+
+div.home ul li:last-child::after {
+  content: "";
+}
