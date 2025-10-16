@@ -51,9 +51,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#1332](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🔓 Reopened issue [#1319](https://github.com/oauth2-proxy/oauth2-proxy/issues/1319) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. ❌ Reopened PR [#1838](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-4. 🗣 Commented on [#71](https://github.com/go-viper/mapstructure/pull/71#issuecomment-3397804003) in [go-viper/mapstructure](https://github.com/go-viper/mapstructure)
-5. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3393330519) in [cncf/sandbox](https://github.com/cncf/sandbox)
+1. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3406353272) in [cncf/sandbox](https://github.com/cncf/sandbox)
+2. ❌ Reopened PR [#1332](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. 🔓 Reopened issue [#1319](https://github.com/oauth2-proxy/oauth2-proxy/issues/1319) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. ❌ Reopened PR [#1838](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. 🗣 Commented on [#71](https://github.com/go-viper/mapstructure/pull/71#issuecomment-3397804003) in [go-viper/mapstructure](https://github.com/go-viper/mapstructure)
 <!--END_SECTION:activity-->
