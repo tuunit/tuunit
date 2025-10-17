@@ -51,9 +51,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3406353272) in [cncf/sandbox](https://github.com/cncf/sandbox)
-2. ❌ Reopened PR [#1332](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. 🔓 Reopened issue [#1319](https://github.com/oauth2-proxy/oauth2-proxy/issues/1319) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-4. ❌ Reopened PR [#1838](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. 🗣 Commented on [#71](https://github.com/go-viper/mapstructure/pull/71#issuecomment-3397804003) in [go-viper/mapstructure](https://github.com/go-viper/mapstructure)
+1. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3411458539) in [cncf/sandbox](https://github.com/cncf/sandbox)
+2. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3411044750) in [cncf/sandbox](https://github.com/cncf/sandbox)
+3. 💪 Opened PR [#601](undefined) in [cncf/artwork](https://github.com/cncf/artwork)
+4. 🗣 Commented on [#599](https://github.com/cncf/artwork/pull/599#issuecomment-3409879891) in [cncf/artwork](https://github.com/cncf/artwork)
+5. 🗣 Commented on [#1144](https://github.com/cncf/foundation/pull/1144#issuecomment-3409846050) in [cncf/foundation](https://github.com/cncf/foundation)
 <!--END_SECTION:activity-->
