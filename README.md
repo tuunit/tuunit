@@ -51,9 +51,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3437628875) in [cncf/sandbox](https://github.com/cncf/sandbox)
-2. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3432534286) in [cncf/sandbox](https://github.com/cncf/sandbox)
-3. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3427571643) in [cncf/sandbox](https://github.com/cncf/sandbox)
-4. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3411458539) in [cncf/sandbox](https://github.com/cncf/sandbox)
-5. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3411044750) in [cncf/sandbox](https://github.com/cncf/sandbox)
+1. 🔒 Closed issue [#110](https://github.com/seacrew/helm-compose/issues/110) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+2. 🔒 Closed issue [#26](https://github.com/seacrew/helm-compose/issues/26) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+3. 🔒 Closed issue [#22](https://github.com/seacrew/helm-compose/issues/22) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+4. ❌ Closed PR [#189](undefined) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+5. ❌ Closed PR [#188](undefined) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
 <!--END_SECTION:activity-->
