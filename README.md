@@ -51,9 +51,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#110](https://github.com/seacrew/helm-compose/issues/110) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
-2. 🔒 Closed issue [#26](https://github.com/seacrew/helm-compose/issues/26) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
-3. 🔒 Closed issue [#22](https://github.com/seacrew/helm-compose/issues/22) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
-4. ❌ Closed PR [#189](undefined) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
-5. ❌ Closed PR [#188](undefined) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+1. 💪 Opened PR [#4571](undefined) in [cncf/landscape](https://github.com/cncf/landscape)
+2. 🗣 Commented on [#42](https://github.com/tuunit/mkdocs-drawio/issues/42#issuecomment-3450017133) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+3. 🗣 Commented on [#42](https://github.com/tuunit/mkdocs-drawio/issues/42#issuecomment-3449696662) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+4. 🗣 Commented on [#42](https://github.com/tuunit/mkdocs-drawio/issues/42#issuecomment-3449687491) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+5. 🔒 Closed issue [#110](https://github.com/seacrew/helm-compose/issues/110) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
 <!--END_SECTION:activity-->
