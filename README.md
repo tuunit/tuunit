@@ -51,9 +51,9 @@ I'm a Software Engineer with a passion for open source and teaching. I've been c
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4571](undefined) in [cncf/landscape](https://github.com/cncf/landscape)
-2. 🗣 Commented on [#42](https://github.com/tuunit/mkdocs-drawio/issues/42#issuecomment-3450017133) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-3. 🗣 Commented on [#42](https://github.com/tuunit/mkdocs-drawio/issues/42#issuecomment-3449696662) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-4. 🗣 Commented on [#42](https://github.com/tuunit/mkdocs-drawio/issues/42#issuecomment-3449687491) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-5. 🔒 Closed issue [#110](https://github.com/seacrew/helm-compose/issues/110) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+1. 🔒 Closed issue [#2840](https://github.com/oauth2-proxy/oauth2-proxy/issues/2840) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 🗣 Commented on [#3238](https://github.com/oauth2-proxy/oauth2-proxy/pull/3238#issuecomment-3455279701) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. 💪 Opened PR [#3244](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. 🗣 Commented on [#3110](https://github.com/oauth2-proxy/oauth2-proxy/pull/3110#issuecomment-3455084099) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. 🗣 Commented on [#3217](https://github.com/oauth2-proxy/oauth2-proxy/pull/3217#issuecomment-3455012419) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
