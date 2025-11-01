@@ -53,9 +53,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#363](https://github.com/oauth2-proxy/manifests/issues/363#issuecomment-3470386468) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-2. 🔒 Closed issue [#363](https://github.com/oauth2-proxy/manifests/issues/363) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-3. 🗣 Commented on [#364](https://github.com/oauth2-proxy/manifests/pull/364#issuecomment-3469620252) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-4. 🗣 Commented on [#363](https://github.com/oauth2-proxy/manifests/issues/363#issuecomment-3468975136) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-5. 🗣 Commented on [#363](https://github.com/oauth2-proxy/manifests/issues/363#issuecomment-3468974072) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+1. 🗣 Commented on [#354](https://github.com/oauth2-proxy/manifests/issues/354#issuecomment-3472192638) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+2. 🗣 Commented on [#363](https://github.com/oauth2-proxy/manifests/issues/363#issuecomment-3470386468) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+3. 🔒 Closed issue [#363](https://github.com/oauth2-proxy/manifests/issues/363) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+4. 🗣 Commented on [#364](https://github.com/oauth2-proxy/manifests/pull/364#issuecomment-3469620252) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+5. 🗣 Commented on [#363](https://github.com/oauth2-proxy/manifests/issues/363#issuecomment-3468975136) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 <!--END_SECTION:activity-->
