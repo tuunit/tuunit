@@ -53,9 +53,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3237](https://github.com/oauth2-proxy/oauth2-proxy/pull/3237#issuecomment-3481929623) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3481822409) in [cncf/sandbox](https://github.com/cncf/sandbox)
-3. ❌ Closed PR [#3247](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-4. 🗣 Commented on [#3247](https://github.com/oauth2-proxy/oauth2-proxy/pull/3247#issuecomment-3481383644) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. 🗣 Commented on [#4571](https://github.com/cncf/landscape/pull/4571#issuecomment-3476353194) in [cncf/landscape](https://github.com/cncf/landscape)
+1. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3488480921) in [cncf/sandbox](https://github.com/cncf/sandbox)
+2. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3488384379) in [cncf/sandbox](https://github.com/cncf/sandbox)
+3. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3488384022) in [cncf/sandbox](https://github.com/cncf/sandbox)
+4. 🗣 Commented on [#3237](https://github.com/oauth2-proxy/oauth2-proxy/pull/3237#issuecomment-3481929623) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3481822409) in [cncf/sandbox](https://github.com/cncf/sandbox)
 <!--END_SECTION:activity-->
