@@ -53,9 +53,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3488480921) in [cncf/sandbox](https://github.com/cncf/sandbox)
-2. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3488384022) in [cncf/sandbox](https://github.com/cncf/sandbox)
-3. 🗣 Commented on [#3237](https://github.com/oauth2-proxy/oauth2-proxy/pull/3237#issuecomment-3481929623) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-4. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3481822409) in [cncf/sandbox](https://github.com/cncf/sandbox)
-5. ❌ Closed PR [#3247](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. ❌ Reopened PR [#2636](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 🔒 Closed issue [#3250](https://github.com/oauth2-proxy/oauth2-proxy/issues/3250) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. 🗣 Commented on [#3250](https://github.com/oauth2-proxy/oauth2-proxy/issues/3250#issuecomment-3503714290) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. 🗣 Commented on [#43](https://github.com/tuunit/mkdocs-drawio/issues/43#issuecomment-3503149410) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+5. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3488480921) in [cncf/sandbox](https://github.com/cncf/sandbox)
 <!--END_SECTION:activity-->
