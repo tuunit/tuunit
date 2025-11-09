@@ -53,9 +53,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#2636](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🔒 Closed issue [#3250](https://github.com/oauth2-proxy/oauth2-proxy/issues/3250) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. 🗣 Commented on [#3250](https://github.com/oauth2-proxy/oauth2-proxy/issues/3250#issuecomment-3503714290) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-4. 🗣 Commented on [#43](https://github.com/tuunit/mkdocs-drawio/issues/43#issuecomment-3503149410) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-5. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3488480921) in [cncf/sandbox](https://github.com/cncf/sandbox)
+1. 🗣 Commented on [#3056](https://github.com/oauth2-proxy/oauth2-proxy/issues/3056#issuecomment-3506735003) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. ❌ Closed PR [#365](undefined) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+3. 💪 Opened PR [#366](undefined) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+4. 🗣 Commented on [#2841](https://github.com/oauth2-proxy/oauth2-proxy/pull/2841#issuecomment-3506524697) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. 🔒 Closed issue [#1640](https://github.com/oauth2-proxy/oauth2-proxy/issues/1640) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
