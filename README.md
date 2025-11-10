@@ -53,9 +53,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3056](https://github.com/oauth2-proxy/oauth2-proxy/issues/3056#issuecomment-3506735003) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. ❌ Closed PR [#365](undefined) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-3. 💪 Opened PR [#366](undefined) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-4. 🗣 Commented on [#2841](https://github.com/oauth2-proxy/oauth2-proxy/pull/2841#issuecomment-3506524697) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. 🔒 Closed issue [#1640](https://github.com/oauth2-proxy/oauth2-proxy/issues/1640) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 💪 Opened PR [#3253](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 🗣 Commented on [#169](https://github.com/d4rkfella/apk-repository/pull/169#issuecomment-3508115477) in [d4rkfella/apk-repository](https://github.com/d4rkfella/apk-repository)
+3. ❌ Closed PR [#191](undefined) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+4. ❌ Closed PR [#192](undefined) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+5. 💪 Opened PR [#193](undefined) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
 <!--END_SECTION:activity-->
