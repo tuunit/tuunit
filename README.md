@@ -53,9 +53,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3262](https://github.com/oauth2-proxy/oauth2-proxy/pull/3262#issuecomment-3534424063) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 💪 Opened PR [#370](undefined) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-3. 💪 Opened PR [#369](undefined) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-4. 🗣 Commented on [#49](https://github.com/ansible-community/awx-operator-helm/issues/49#issuecomment-3533792068) in [ansible-community/awx-operator-helm](https://github.com/ansible-community/awx-operator-helm)
-5. 🗣 Commented on [#49](https://github.com/ansible-community/awx-operator-helm/issues/49#issuecomment-3533757350) in [ansible-community/awx-operator-helm](https://github.com/ansible-community/awx-operator-helm)
+1. 💪 Opened PR [#904](undefined) in [cncf/gitdm](https://github.com/cncf/gitdm)
+2. 🗣 Commented on [#3262](https://github.com/oauth2-proxy/oauth2-proxy/pull/3262#issuecomment-3534424063) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. 💪 Opened PR [#370](undefined) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+4. 💪 Opened PR [#369](undefined) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+5. 🗣 Commented on [#49](https://github.com/ansible-community/awx-operator-helm/issues/49#issuecomment-3533792068) in [ansible-community/awx-operator-helm](https://github.com/ansible-community/awx-operator-helm)
 <!--END_SECTION:activity-->
