@@ -53,9 +53,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1429](https://github.com/grafana/grafana-plugin-sdk-go/pull/1429#issuecomment-3546976682) in [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go)
-2. 🗣 Commented on [#904](https://github.com/cncf/gitdm/pull/904#issuecomment-3541480467) in [cncf/gitdm](https://github.com/cncf/gitdm)
-3. 🗣 Commented on [#3262](https://github.com/oauth2-proxy/oauth2-proxy/pull/3262#issuecomment-3539418317) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-4. 🗣 Commented on [#44](https://github.com/tuunit/mkdocs-drawio/pull/44#issuecomment-3539402071) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-5. 💪 Opened PR [#904](undefined) in [cncf/gitdm](https://github.com/cncf/gitdm)
+1. 🗣 Commented on [#3269](https://github.com/oauth2-proxy/oauth2-proxy/issues/3269#issuecomment-3559000396) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 🗣 Commented on [#3269](https://github.com/oauth2-proxy/oauth2-proxy/issues/3269#issuecomment-3558991643) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. 🗣 Commented on [#3269](https://github.com/oauth2-proxy/oauth2-proxy/issues/3269#issuecomment-3558937716) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. 🗣 Commented on [#367](https://github.com/oauth2-proxy/manifests/pull/367#issuecomment-3556831824) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+5. 🗣 Commented on [#1429](https://github.com/grafana/grafana-plugin-sdk-go/pull/1429#issuecomment-3546976682) in [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go)
 <!--END_SECTION:activity-->
