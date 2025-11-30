@@ -53,9 +53,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#354](https://github.com/oauth2-proxy/manifests/issues/354#issuecomment-3589773427) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-2. 💪 Opened PR [#1522](undefined) in [uber-go/zap](https://github.com/uber-go/zap)
-3. 🗣 Commented on [#45](https://github.com/tuunit/mkdocs-drawio/issues/45#issuecomment-3569554022) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-4. 🗣 Commented on [#45](https://github.com/tuunit/mkdocs-drawio/issues/45#issuecomment-3567854337) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-5. 🗣 Commented on [#3269](https://github.com/oauth2-proxy/oauth2-proxy/issues/3269#issuecomment-3559000396) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 🗣 Commented on [#45](https://github.com/tuunit/mkdocs-drawio/issues/45#issuecomment-3591931044) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+2. 🗣 Commented on [#45](https://github.com/tuunit/mkdocs-drawio/issues/45#issuecomment-3591928453) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+3. 🗣 Commented on [#350](https://github.com/oauth2-proxy/manifests/issues/350#issuecomment-3591607442) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+4. 🗣 Commented on [#350](https://github.com/oauth2-proxy/manifests/issues/350#issuecomment-3591607140) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+5. 🗣 Commented on [#354](https://github.com/oauth2-proxy/manifests/issues/354#issuecomment-3589773427) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 <!--END_SECTION:activity-->
