@@ -53,9 +53,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#16](undefined) in [cncf/contribcard-sites](https://github.com/cncf/contribcard-sites)
-2. 💪 Opened PR [#16](undefined) in [cncf/contribcard-sites](https://github.com/cncf/contribcard-sites)
-3. ❌ Merged PR [#15](undefined) in [cncf/contribcard-sites](https://github.com/cncf/contribcard-sites)
-4. 💪 Opened PR [#15](undefined) in [cncf/contribcard-sites](https://github.com/cncf/contribcard-sites)
-5. 🗣 Commented on [#45](https://github.com/tuunit/mkdocs-drawio/issues/45#issuecomment-3591931044) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+1. 🗣 Commented on [#350](https://github.com/oauth2-proxy/manifests/issues/350#issuecomment-3635602277) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+2. ❌ Merged PR [#16](undefined) in [cncf/contribcard-sites](https://github.com/cncf/contribcard-sites)
+3. 💪 Opened PR [#16](undefined) in [cncf/contribcard-sites](https://github.com/cncf/contribcard-sites)
+4. ❌ Merged PR [#15](undefined) in [cncf/contribcard-sites](https://github.com/cncf/contribcard-sites)
+5. 💪 Opened PR [#15](undefined) in [cncf/contribcard-sites](https://github.com/cncf/contribcard-sites)
 <!--END_SECTION:activity-->
