@@ -53,9 +53,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2629](https://github.com/oauth2-proxy/oauth2-proxy/pull/2629#issuecomment-3697511871) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3695865311) in [cncf/sandbox](https://github.com/cncf/sandbox)
-3. ❌ Closed PR [#3162](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-4. ❌ Merged PR [#3292](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. 🗣 Commented on [#3287](https://github.com/oauth2-proxy/oauth2-proxy/pull/3287#issuecomment-3689350880) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 🗣 Commented on [#1522](https://github.com/uber-go/zap/pull/1522#issuecomment-3702820955) in [uber-go/zap](https://github.com/uber-go/zap)
+2. ❌ Merged PR [#1522](undefined) in [uber-go/zap](https://github.com/uber-go/zap)
+3. 🗣 Commented on [#129](https://github.com/jamesgeorge007/github-activity-readme/pull/129#issuecomment-3702242246) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. 🗣 Commented on [#129](https://github.com/jamesgeorge007/github-activity-readme/pull/129#issuecomment-3702234757) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5. 🗣 Commented on [#1522](https://github.com/uber-go/zap/pull/1522#issuecomment-3702014072) in [uber-go/zap](https://github.com/uber-go/zap)
 <!--END_SECTION:activity-->
