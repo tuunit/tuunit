@@ -53,9 +53,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1522](https://github.com/uber-go/zap/pull/1522#issuecomment-3702820955) in [uber-go/zap](https://github.com/uber-go/zap)
-2. ❌ Merged PR [#1522](undefined) in [uber-go/zap](https://github.com/uber-go/zap)
-3. 🗣 Commented on [#129](https://github.com/jamesgeorge007/github-activity-readme/pull/129#issuecomment-3702242246) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🗣 Commented on [#129](https://github.com/jamesgeorge007/github-activity-readme/pull/129#issuecomment-3702234757) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#1522](https://github.com/uber-go/zap/pull/1522#issuecomment-3702014072) in [uber-go/zap](https://github.com/uber-go/zap)
+1. 🗣 Commented on [#106](https://github.com/jamesgeorge007/github-activity-readme/issues/106#issuecomment-3704011660) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🗣 Commented on [#133](https://github.com/jamesgeorge007/github-activity-readme/pull/133#issuecomment-3703783338) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 💪 Opened PR [#133](undefined) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4.  Labeled issue [#132](https://github.com/jamesgeorge007/github-activity-readme/issues/132) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5.  Labeled issue [#132](https://github.com/jamesgeorge007/github-activity-readme/issues/132) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
