@@ -53,9 +53,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#82](https://github.com/jamesgeorge007/github-activity-readme/issues/82) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🗣 Commented on [#106](https://github.com/jamesgeorge007/github-activity-readme/issues/106#issuecomment-3704011660) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. 🗣 Commented on [#133](https://github.com/jamesgeorge007/github-activity-readme/pull/133#issuecomment-3703783338) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 💪 Opened PR [#133](undefined) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5.  Labeled issue [#132](https://github.com/jamesgeorge007/github-activity-readme/issues/132) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 🗣 Commented on [#3294](https://github.com/oauth2-proxy/oauth2-proxy/pull/3294#issuecomment-3708170037) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 🔒 Closed issue [#82](https://github.com/jamesgeorge007/github-activity-readme/issues/82) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 🗣 Commented on [#106](https://github.com/jamesgeorge007/github-activity-readme/issues/106#issuecomment-3704011660) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. 🗣 Commented on [#133](https://github.com/jamesgeorge007/github-activity-readme/pull/133#issuecomment-3703783338) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5. 💪 Opened PR [#133](undefined) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
