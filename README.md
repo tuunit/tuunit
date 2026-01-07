@@ -53,9 +53,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3294](https://github.com/oauth2-proxy/oauth2-proxy/pull/3294#issuecomment-3708170037) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🔒 Closed issue [#82](https://github.com/jamesgeorge007/github-activity-readme/issues/82) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. 🗣 Commented on [#106](https://github.com/jamesgeorge007/github-activity-readme/issues/106#issuecomment-3704011660) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🗣 Commented on [#133](https://github.com/jamesgeorge007/github-activity-readme/pull/133#issuecomment-3703783338) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 💪 Opened PR [#133](undefined) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. ❌ Closed PR [#3298](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 🗣 Commented on [#380](https://github.com/oauth2-proxy/manifests/issues/380#issuecomment-3714458139) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+3. 🗣 Commented on [#380](https://github.com/oauth2-proxy/manifests/issues/380#issuecomment-3714442110) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+4. 🗣 Commented on [#710](https://github.com/cloudnative-pg/charts/issues/710#issuecomment-3713664143) in [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts)
+5. 💪 Opened PR [#776](undefined) in [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts)
 <!--END_SECTION:activity-->
