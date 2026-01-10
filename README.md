@@ -53,9 +53,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3298](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🗣 Commented on [#380](https://github.com/oauth2-proxy/manifests/issues/380#issuecomment-3714458139) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-3. 🗣 Commented on [#380](https://github.com/oauth2-proxy/manifests/issues/380#issuecomment-3714442110) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-4. 🗣 Commented on [#710](https://github.com/cloudnative-pg/charts/issues/710#issuecomment-3713664143) in [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts)
-5. 💪 Opened PR [#776](undefined) in [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts)
+1. 🗣 Commented on [#48](https://github.com/tuunit/mkdocs-drawio/pull/48#issuecomment-3729539107) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+2. 🗣 Commented on [#17](https://github.com/tuunit/mkdocs-drawio/issues/17#issuecomment-3729345751) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+3. 🔒 Closed issue [#17](https://github.com/tuunit/mkdocs-drawio/issues/17) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+4. ❌ Merged PR [#36](undefined) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+5. ❌ Closed PR [#3298](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
