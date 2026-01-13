@@ -53,9 +53,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/tuunit/mkdocs-drawio/pull/48#issuecomment-3729539107) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-2. 🗣 Commented on [#17](https://github.com/tuunit/mkdocs-drawio/issues/17#issuecomment-3729345751) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-3. 🔒 Closed issue [#17](https://github.com/tuunit/mkdocs-drawio/issues/17) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-4. ❌ Merged PR [#36](undefined) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-5. ❌ Closed PR [#3298](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 🗣 Commented on [#407](https://github.com/cncf/sandbox/issues/407#issuecomment-3738632246) in [cncf/sandbox](https://github.com/cncf/sandbox)
+2. 🗣 Commented on [#48](https://github.com/tuunit/mkdocs-drawio/pull/48#issuecomment-3729539107) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+3. 🗣 Commented on [#17](https://github.com/tuunit/mkdocs-drawio/issues/17#issuecomment-3729345751) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+4. 🔒 Closed issue [#17](https://github.com/tuunit/mkdocs-drawio/issues/17) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+5. ❌ Merged PR [#36](undefined) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
 <!--END_SECTION:activity-->
