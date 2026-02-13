@@ -53,9 +53,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3334](https://github.com/oauth2-proxy/oauth2-proxy/issues/3334#issuecomment-3887406773) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🗣 Commented on [#1945](https://github.com/oauth2-proxy/oauth2-proxy/issues/1945#issuecomment-3862070274) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. 🗣 Commented on [#1945](https://github.com/oauth2-proxy/oauth2-proxy/issues/1945#issuecomment-3862069230) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-4. 🔓 Reopened issue [#1945](https://github.com/oauth2-proxy/oauth2-proxy/issues/1945) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. 🗣 Commented on [#3330](https://github.com/oauth2-proxy/oauth2-proxy/issues/3330#issuecomment-3837627446) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. ❌ Merged PR [#3337](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 💪 Opened PR [#3337](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. 🗣 Commented on [#3334](https://github.com/oauth2-proxy/oauth2-proxy/issues/3334#issuecomment-3887406773) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. 🗣 Commented on [#1945](https://github.com/oauth2-proxy/oauth2-proxy/issues/1945#issuecomment-3862070274) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. 🗣 Commented on [#1945](https://github.com/oauth2-proxy/oauth2-proxy/issues/1945#issuecomment-3862069230) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
