@@ -53,9 +53,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#776](https://github.com/cloudnative-pg/charts/pull/776#issuecomment-3947663909) in [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts)
-2. 🗣 Commented on [#2998](https://github.com/oauth2-proxy/oauth2-proxy/issues/2998#issuecomment-3925659815) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3.  Labeled issue [#2998](https://github.com/oauth2-proxy/oauth2-proxy/issues/2998) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-4. 🔓 Reopened issue [#2998](https://github.com/oauth2-proxy/oauth2-proxy/issues/2998) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. 🗣 Commented on [#3024](https://github.com/oauth2-proxy/oauth2-proxy/issues/3024#issuecomment-3916213170) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 🔒 Closed issue [#3342](https://github.com/oauth2-proxy/oauth2-proxy/issues/3342) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 🗣 Commented on [#3342](https://github.com/oauth2-proxy/oauth2-proxy/issues/3342#issuecomment-3966959053) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. 🗣 Commented on [#3343](https://github.com/oauth2-proxy/oauth2-proxy/pull/3343#issuecomment-3966958108) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. ❌ Closed PR [#3343](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. ❌ Merged PR [#3350](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
