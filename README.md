@@ -53,9 +53,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#103](undefined) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-2. 💪 Opened PR [#103](undefined) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-3. ❌ Merged PR [#133](undefined) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🗣 Commented on [#3370](https://github.com/oauth2-proxy/oauth2-proxy/pull/3370#issuecomment-4060587008) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. ❌ Closed PR [#3370](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 🗣 Commented on [#3294](https://github.com/oauth2-proxy/oauth2-proxy/pull/3294#issuecomment-4074859183) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. ❌ Closed PR [#3297](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. ❌ Closed PR [#3213](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. ❌ Merged PR [#3372](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. ❌ Closed PR [#134](undefined) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
