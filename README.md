@@ -53,9 +53,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#2629](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🔒 Closed issue [#302](https://github.com/oauth2-proxy/manifests/issues/302) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-3. 🔒 Closed issue [#311](https://github.com/oauth2-proxy/manifests/issues/311) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-4. 🔒 Closed issue [#226](https://github.com/oauth2-proxy/manifests/issues/226) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-5. ❌ Merged PR [#3386](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. ❌ Reopened PR [#2947](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. ❌ Merged PR [#2629](undefined) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. 🔒 Closed issue [#302](https://github.com/oauth2-proxy/manifests/issues/302) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+4. 🔒 Closed issue [#311](https://github.com/oauth2-proxy/manifests/issues/311) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+5. 🔒 Closed issue [#226](https://github.com/oauth2-proxy/manifests/issues/226) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 <!--END_SECTION:activity-->
