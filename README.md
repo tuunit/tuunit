@@ -2,7 +2,7 @@
 
 ## Coder, Open Sourcerer, Teacher
 
-I'm currently a Staff Platform/SRE Engineer at [IONOS Cloud](https://cloud.ionos.com/). I have a strong passion for open source and teaching. I’ve been coding and tinkering for over 17 years and love to share my knowledge about software architecture and design.
+I'm a Platform Engineer. I have a strong passion for open source and teaching. I’ve been coding and tinkering for over 18 years and love to share my knowledge about software architecture and design.
 
 I’m mostly focused on building tools and internal development platforms for enabling others.
 
