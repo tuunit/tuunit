@@ -53,9 +53,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#406](undefined) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-2. 🗣 Commented on [#710](https://github.com/cloudnative-pg/charts/issues/710#issuecomment-4245437759) in [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts)
-3. 💪 Opened PR [#406](undefined) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-4. 🗣 Commented on [#3405](https://github.com/oauth2-proxy/oauth2-proxy/issues/3405#issuecomment-4244239685) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. 🔒 Closed issue [#3405](https://github.com/oauth2-proxy/oauth2-proxy/issues/3405) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 🗣 Commented on [#3284](https://github.com/oauth2-proxy/oauth2-proxy/issues/3284#issuecomment-4251652576) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 🗣 Commented on [#218](https://github.com/kubara-io/kubara/issues/218#issuecomment-4251521076) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+3. 🗣 Commented on [#360](https://github.com/Masterminds/sprig/pull/360#issuecomment-4251477789) in [Masterminds/sprig](https://github.com/Masterminds/sprig)
+4. ❌ Merged PR [#406](undefined) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+5. 🗣 Commented on [#710](https://github.com/cloudnative-pg/charts/issues/710#issuecomment-4245437759) in [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts)
 <!--END_SECTION:activity-->
