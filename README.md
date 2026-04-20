@@ -53,9 +53,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1.  Unassigned issue [#100](https://github.com/kubara-io/kubara/issues/100) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-2. 🗣 Commented on [#100](https://github.com/kubara-io/kubara/issues/100#issuecomment-4269059616) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-3. 🔒 Closed issue [#182](https://github.com/kubara-io/kubara/issues/182) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-4. 🗣 Commented on [#220](https://github.com/kubara-io/kubara/pull/220#issuecomment-4267168681) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-5. 🔒 Closed issue [#201](https://github.com/kubara-io/kubara/issues/201) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+1. ❌ Merged PR [#849](undefined) in [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog)
+2.  Unassigned issue [#100](https://github.com/kubara-io/kubara/issues/100) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+3. 🗣 Commented on [#100](https://github.com/kubara-io/kubara/issues/100#issuecomment-4269059616) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+4. 🔒 Closed issue [#182](https://github.com/kubara-io/kubara/issues/182) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+5. 🗣 Commented on [#220](https://github.com/kubara-io/kubara/pull/220#issuecomment-4267168681) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
 <!--END_SECTION:activity-->
