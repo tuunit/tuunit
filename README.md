@@ -53,9 +53,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#252](undefined) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-2. ❌ Merged PR [#251](undefined) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-3. 💪 Opened PR [#251](undefined) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-4. ❌ Merged PR [#250](undefined) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-5. 💪 Opened PR [#250](undefined) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+1. 🎉 Merged PR [#221](https://github.com/kubara-io/kubara/pull/221) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+2. 🎉 Merged PR [#253](https://github.com/kubara-io/kubara/pull/253) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+3. ℹ️ Labeled issue [#248](https://github.com/kubara-io/kubara/issues/248) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+4. 💪 Opened PR [#253](https://github.com/kubara-io/kubara/pull/253) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+5. 🎉 Merged PR [#1086](https://github.com/cncf/gitdm/pull/1086) in [cncf/gitdm](https://github.com/cncf/gitdm)
 <!--END_SECTION:activity-->
