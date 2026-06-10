@@ -53,9 +53,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#422](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/422#issuecomment-4652582509) in [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind)
-2. 🗣 Commented on [#422](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/422#issuecomment-4650759403) in [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind)
-3. 💪 Opened PR [#422](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/422) in [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind)
-4. ❗ Opened issue [#421](https://github.com/kubernetes-sigs/cloud-provider-kind/issues/421) in [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind)
-5. 🔒 Closed issue [#3440](https://github.com/oauth2-proxy/oauth2-proxy/issues/3440) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 🎉 Merged PR [#371](https://github.com/kubara-io/kubara/pull/371) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+2. 🔓 Reopened issue [#2105](https://github.com/oauth2-proxy/oauth2-proxy/issues/2105) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. 🔒 Closed issue [#3443](https://github.com/oauth2-proxy/oauth2-proxy/issues/3443) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. 🗣 Commented on [#3443](https://github.com/oauth2-proxy/oauth2-proxy/issues/3443#issuecomment-4659624689) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. 🗣 Commented on [#3404](https://github.com/oauth2-proxy/oauth2-proxy/issues/3404#issuecomment-4659588239) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
