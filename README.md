@@ -53,9 +53,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#371](https://github.com/kubara-io/kubara/pull/371) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-2. 🔓 Reopened issue [#2105](https://github.com/oauth2-proxy/oauth2-proxy/issues/2105) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. 🔒 Closed issue [#3443](https://github.com/oauth2-proxy/oauth2-proxy/issues/3443) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-4. 🗣 Commented on [#3443](https://github.com/oauth2-proxy/oauth2-proxy/issues/3443#issuecomment-4659624689) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. 🗣 Commented on [#3404](https://github.com/oauth2-proxy/oauth2-proxy/issues/3404#issuecomment-4659588239) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 🗣 Commented on [#5103](https://github.com/lima-vm/lima/pull/5103#issuecomment-4671347361) in [lima-vm/lima](https://github.com/lima-vm/lima)
+2. 🎉 Merged PR [#366](https://github.com/kubara-io/kubara/pull/366) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+3. 💪 Opened PR [#5103](https://github.com/lima-vm/lima/pull/5103) in [lima-vm/lima](https://github.com/lima-vm/lima)
+4. 🗣 Commented on [#422](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/422#issuecomment-4671160752) in [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind)
+5. 🗣 Commented on [#422](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/422#issuecomment-4671122497) in [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind)
 <!--END_SECTION:activity-->
