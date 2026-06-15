@@ -17,25 +17,25 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 <a href="https://github.com/jstrieb/github-stats">
   <picture>
     <source
-      srcset="https://raw.githubusercontent.com/tuunit/github-stats/master/generated/overview.svg#gh-dark-mode-only" 
+      srcset="overview.svg#gh-dark-mode-only" 
       media="(prefers-color-scheme: dark)" 
     />
     <source
-      srcset="https://raw.githubusercontent.com/tuunit/github-stats/master/generated/overview.svg#gh-light-mode-only" 
+      srcset="overview.svg#gh-light-mode-only" 
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
     />
-    <img src="https://raw.githubusercontent.com/tuunit/github-stats/master/generated/overview.svg#gh-light-mode-only" />
+    <img src="overview.svg#gh-light-mode-only" />
   </picture>
   <picture>
     <source
-      srcset="https://raw.githubusercontent.com/tuunit/github-stats/master/generated/languages.svg#gh-dark-mode-only" 
+      srcset="languages.svg#gh-dark-mode-only" 
       media="(prefers-color-scheme: dark)" 
     />
     <source
-      srcset="https://raw.githubusercontent.com/tuunit/github-stats/master/generated/languages.svg#gh-light-mode-only" 
+      srcset="languages.svg#gh-light-mode-only" 
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
     />
-    <img src="https://raw.githubusercontent.com/tuunit/github-stats/master/generated/languages.svg#gh-light-mode-only" />
+    <img src="languages.svg#gh-light-mode-only" />
   </picture>
 </a>
 
