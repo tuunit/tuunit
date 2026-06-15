@@ -1,0 +1,34 @@
+name: Update profile stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate SVG stats
+        uses: tuunit/github-stats-generator@v0.1.0
+        with:
+          access_token: ${{ secrets.ACCESS_TOKEN }}
+          output_dir: .
+          exclude_repos: ""
+          exclude_langs: "dart"
+          exclude_private: "false"
+          include_contributed_repositories: "false"
+          max_retries: "5"
+
+      - name: Commit generated SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add overview.svg languages.svg
+          git commit -m "Update GitHub stats" || true
+          git push
