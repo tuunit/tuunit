@@ -53,9 +53,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#392](https://github.com/kubara-io/kubara/pull/392) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-2. 🗣 Commented on [#5103](https://github.com/lima-vm/lima/pull/5103#issuecomment-4671347361) in [lima-vm/lima](https://github.com/lima-vm/lima)
-3. 🎉 Merged PR [#366](https://github.com/kubara-io/kubara/pull/366) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+1. 🎉 Merged PR [#392](https://github.com/kubara-io/kubara/pull/392) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+2. 💪 Opened PR [#392](https://github.com/kubara-io/kubara/pull/392) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+3. 🗣 Commented on [#5103](https://github.com/lima-vm/lima/pull/5103#issuecomment-4671347361) in [lima-vm/lima](https://github.com/lima-vm/lima)
 4. 💪 Opened PR [#5103](https://github.com/lima-vm/lima/pull/5103) in [lima-vm/lima](https://github.com/lima-vm/lima)
 5. 🗣 Commented on [#422](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/422#issuecomment-4671160752) in [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind)
 <!--END_SECTION:activity-->
