@@ -40,7 +40,6 @@ li {
   margin-right: 1ch;
   align-items: center;
   flex-wrap: nowrap;
-  transform: translateX(-500%);
 }
 
 div.ellipsis {

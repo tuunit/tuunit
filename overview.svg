@@ -41,10 +41,6 @@ td {
   line-height: 18px;
 }
 
-tr {
-  transform: translateX(-200%);
-}
-
 .octicon {
   margin-right: 1ch;
   vertical-align: top;
