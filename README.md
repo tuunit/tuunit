@@ -14,29 +14,8 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 
 <br>
 
-
-<picture>
-  <source
-    srcset="overview.svg#gh-dark-mode-only" 
-    media="(prefers-color-scheme: dark)" 
-  />
-  <source
-    srcset="overview.svg#gh-light-mode-only" 
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
-  />
-  <img src="overview.svg#gh-light-mode-only" />
-</picture>
-<picture>
-  <source
-    srcset="languages.svg#gh-dark-mode-only" 
-    media="(prefers-color-scheme: dark)" 
-  />
-  <source
-    srcset="languages.svg#gh-light-mode-only" 
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
-  />
-  <img src="languages.svg#gh-light-mode-only" />
-</picture>
+![Overview Stats](overview.svg)
+![Languages Stats](languages.svg)
 
 ## 🔧 Pull Requests Showcase
 
