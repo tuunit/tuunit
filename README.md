@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#776](https://github.com/cloudnative-pg/charts/pull/776#issuecomment-4786665163) in [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts)
-2. 🎉 Merged PR [#422](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/422) in [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind)
-3. 🗣 Commented on [#422](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/422#issuecomment-4778418269) in [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind)
-4. 💪 Opened PR [#430](https://github.com/kubara-io/kubara/pull/430) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-5. 🗣 Commented on [#301](https://github.com/kubara-io/kubara/issues/301#issuecomment-4718421917) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+1. 🎉 Merged PR [#438](https://github.com/kubara-io/kubara/pull/438) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+2. 💪 Opened PR [#438](https://github.com/kubara-io/kubara/pull/438) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+3. 🔒 Closed issue [#300](https://github.com/kubara-io/kubara/issues/300) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+4. 💪 Opened PR [#437](https://github.com/kubara-io/kubara/pull/437) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+5. 🗣 Commented on [#776](https://github.com/cloudnative-pg/charts/pull/776#issuecomment-4797788432) in [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts)
 <!--END_SECTION:activity-->
