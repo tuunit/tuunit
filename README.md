@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#462](https://github.com/kubara-io/kubara/pull/462) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-2. 💪 Opened PR [#462](https://github.com/kubara-io/kubara/pull/462) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-3. 🔒 Closed issue [#456](https://github.com/kubara-io/kubara/issues/456) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-4. 🎉 Merged PR [#457](https://github.com/kubara-io/kubara/pull/457) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-5. 🗣 Commented on [#333](https://github.com/kubara-io/kubara/issues/333#issuecomment-4830337464) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+1. 💪 Opened PR [#465](https://github.com/kubara-io/kubara/pull/465) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+2. 🎉 Merged PR [#462](https://github.com/kubara-io/kubara/pull/462) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+3. 💪 Opened PR [#462](https://github.com/kubara-io/kubara/pull/462) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+4. 🔒 Closed issue [#456](https://github.com/kubara-io/kubara/issues/456) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+5. 🎉 Merged PR [#457](https://github.com/kubara-io/kubara/pull/457) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
 <!--END_SECTION:activity-->
