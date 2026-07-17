@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#387](https://github.com/kubara-io/kubara/issues/387#issuecomment-4968649102) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-2. 🗣 Commented on [#333](https://github.com/kubara-io/kubara/issues/333#issuecomment-4968593885) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-3. 🔒 Closed issue [#333](https://github.com/kubara-io/kubara/issues/333) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-4. 🔒 Closed issue [#489](https://github.com/kubara-io/kubara/issues/489) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-5. 🔒 Closed issue [#202](https://github.com/kubara-io/kubara/issues/202) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+1. 🗣 Commented on [#42](https://github.com/tuunit/mkdocs-drawio/issues/42#issuecomment-4996391098) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+2. 🗣 Commented on [#42](https://github.com/tuunit/mkdocs-drawio/issues/42#issuecomment-4993399221) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+3. 🗣 Commented on [#42](https://github.com/tuunit/mkdocs-drawio/issues/42#issuecomment-4992704338) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+4. 🗣 Commented on [#387](https://github.com/kubara-io/kubara/issues/387#issuecomment-4968649102) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+5. 🗣 Commented on [#333](https://github.com/kubara-io/kubara/issues/333#issuecomment-4968593885) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
 <!--END_SECTION:activity-->
