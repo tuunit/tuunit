@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#515](https://github.com/kubara-io/kubara/pull/515) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-2. 🗣 Commented on [#502](https://github.com/kubara-io/kubara/issues/502#issuecomment-5019625546) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-3. 🔒 Closed issue [#100](https://github.com/kubara-io/kubara/issues/100) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-4. 🗣 Commented on [#42](https://github.com/tuunit/mkdocs-drawio/issues/42#issuecomment-4996391098) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-5. 🗣 Commented on [#42](https://github.com/tuunit/mkdocs-drawio/issues/42#issuecomment-4993399221) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+1. 🗣 Commented on [#138](https://github.com/jamesgeorge007/github-activity-readme/issues/138#issuecomment-5032760709) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🔒 Closed issue [#138](https://github.com/jamesgeorge007/github-activity-readme/issues/138) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 💪 Opened PR [#515](https://github.com/kubara-io/kubara/pull/515) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+4. 🗣 Commented on [#502](https://github.com/kubara-io/kubara/issues/502#issuecomment-5019625546) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+5. 🔒 Closed issue [#100](https://github.com/kubara-io/kubara/issues/100) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
 <!--END_SECTION:activity-->
