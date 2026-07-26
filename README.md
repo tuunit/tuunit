@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/kubara-io/catalogs/pull/19) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
-2. ❌ Closed PR [#517](https://github.com/kubara-io/kubara/pull/517) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-3. 🗣 Commented on [#516](https://github.com/kubara-io/kubara/pull/516#issuecomment-5055829470) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-4. ❌ Closed PR [#516](https://github.com/kubara-io/kubara/pull/516) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-5. 🎉 Merged PR [#515](https://github.com/kubara-io/kubara/pull/515) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+1. 🎉 Merged PR [#58](https://github.com/tuunit/mkdocs-drawio/pull/58) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+2. 💪 Opened PR [#58](https://github.com/tuunit/mkdocs-drawio/pull/58) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
+3. 💪 Opened PR [#19](https://github.com/kubara-io/catalogs/pull/19) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
+4. ❌ Closed PR [#517](https://github.com/kubara-io/kubara/pull/517) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+5. 🗣 Commented on [#516](https://github.com/kubara-io/kubara/pull/516#issuecomment-5055829470) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
 <!--END_SECTION:activity-->
