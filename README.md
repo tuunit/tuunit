@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/tuunit/mkdocs-drawio/pull/58) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-2. 💪 Opened PR [#58](https://github.com/tuunit/mkdocs-drawio/pull/58) in [tuunit/mkdocs-drawio](https://github.com/tuunit/mkdocs-drawio)
-3. 💪 Opened PR [#19](https://github.com/kubara-io/catalogs/pull/19) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
-4. ❌ Closed PR [#517](https://github.com/kubara-io/kubara/pull/517) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-5. 🗣 Commented on [#516](https://github.com/kubara-io/kubara/pull/516#issuecomment-5055829470) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+1. 💪 Opened PR [#23](https://github.com/kubara-io/catalogs/pull/23) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
+2. 🚀 Published release [general-1.1.0](https://github.com/kubara-io/catalogs/releases/tag/general-1.1.0) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
+3. 🚀 Published release [bootstrap-1.1.0](https://github.com/kubara-io/catalogs/releases/tag/bootstrap-1.1.0) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
+4. 🎉 Merged PR [#529](https://github.com/kubara-io/kubara/pull/529) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+5. 🗣 Commented on [#503](https://github.com/kubara-io/kubara/pull/503#issuecomment-5092210221) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
 <!--END_SECTION:activity-->
