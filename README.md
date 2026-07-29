@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/kubara-io/catalogs/pull/23) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
-2. 🚀 Published release [general-1.1.0](https://github.com/kubara-io/catalogs/releases/tag/general-1.1.0) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
-3. 🚀 Published release [bootstrap-1.1.0](https://github.com/kubara-io/catalogs/releases/tag/bootstrap-1.1.0) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
-4. 🎉 Merged PR [#529](https://github.com/kubara-io/kubara/pull/529) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-5. 🗣 Commented on [#503](https://github.com/kubara-io/kubara/pull/503#issuecomment-5092210221) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+1. 🗣 Commented on [#4977](https://github.com/cncf/landscape/pull/4977#issuecomment-5105428256) in [cncf/landscape](https://github.com/cncf/landscape)
+2. 💪 Opened PR [#23](https://github.com/kubara-io/catalogs/pull/23) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
+3. 🚀 Published release [general-1.1.0](https://github.com/kubara-io/catalogs/releases/tag/general-1.1.0) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
+4. 🚀 Published release [bootstrap-1.1.0](https://github.com/kubara-io/catalogs/releases/tag/bootstrap-1.1.0) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
+5. 🎉 Merged PR [#529](https://github.com/kubara-io/kubara/pull/529) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
 <!--END_SECTION:activity-->
