@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4977](https://github.com/cncf/landscape/pull/4977#issuecomment-5105428256) in [cncf/landscape](https://github.com/cncf/landscape)
-2. 💪 Opened PR [#23](https://github.com/kubara-io/catalogs/pull/23) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
-3. 🚀 Published release [general-1.1.0](https://github.com/kubara-io/catalogs/releases/tag/general-1.1.0) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
-4. 🚀 Published release [bootstrap-1.1.0](https://github.com/kubara-io/catalogs/releases/tag/bootstrap-1.1.0) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
-5. 🎉 Merged PR [#529](https://github.com/kubara-io/kubara/pull/529) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+1. 💪 Opened PR [#533](https://github.com/kubara-io/kubara/pull/533) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+2. 🎉 Merged PR [#532](https://github.com/kubara-io/kubara/pull/532) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+3. 💪 Opened PR [#532](https://github.com/kubara-io/kubara/pull/532) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+4. 🗣 Commented on [#4977](https://github.com/cncf/landscape/pull/4977#issuecomment-5105428256) in [cncf/landscape](https://github.com/cncf/landscape)
+5. 💪 Opened PR [#23](https://github.com/kubara-io/catalogs/pull/23) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
 <!--END_SECTION:activity-->
