@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#533](https://github.com/kubara-io/kubara/pull/533) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-2. 🎉 Merged PR [#532](https://github.com/kubara-io/kubara/pull/532) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-3. 💪 Opened PR [#532](https://github.com/kubara-io/kubara/pull/532) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-4. 🗣 Commented on [#4977](https://github.com/cncf/landscape/pull/4977#issuecomment-5105428256) in [cncf/landscape](https://github.com/cncf/landscape)
-5. 💪 Opened PR [#23](https://github.com/kubara-io/catalogs/pull/23) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
+1. ℹ️ Reopened PR [#2767](https://github.com/oauth2-proxy/oauth2-proxy/pull/2767) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. ℹ️ Reopened PR [#3221](https://github.com/oauth2-proxy/oauth2-proxy/pull/3221) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. ℹ️ Reopened PR [#3179](https://github.com/oauth2-proxy/oauth2-proxy/pull/3179) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. ℹ️ Reopened PR [#3175](https://github.com/oauth2-proxy/oauth2-proxy/pull/3175) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. ℹ️ Reopened PR [#2720](https://github.com/oauth2-proxy/oauth2-proxy/pull/2720) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
