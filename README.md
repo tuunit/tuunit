@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Reopened PR [#2767](https://github.com/oauth2-proxy/oauth2-proxy/pull/2767) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. ℹ️ Reopened PR [#3221](https://github.com/oauth2-proxy/oauth2-proxy/pull/3221) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. ℹ️ Reopened PR [#3179](https://github.com/oauth2-proxy/oauth2-proxy/pull/3179) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-4. ℹ️ Reopened PR [#3175](https://github.com/oauth2-proxy/oauth2-proxy/pull/3175) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. ℹ️ Reopened PR [#2720](https://github.com/oauth2-proxy/oauth2-proxy/pull/2720) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 💪 Opened PR [#7851](https://github.com/earendil-works/pi/pull/7851) in [earendil-works/pi](https://github.com/earendil-works/pi)
+2. ℹ️ Labeled issue [#7850](https://github.com/earendil-works/pi/issues/7850) in [earendil-works/pi](https://github.com/earendil-works/pi)
+3. ❗ Opened issue [#7850](https://github.com/earendil-works/pi/issues/7850) in [earendil-works/pi](https://github.com/earendil-works/pi)
+4. ℹ️ Reopened PR [#2767](https://github.com/oauth2-proxy/oauth2-proxy/pull/2767) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. ℹ️ Reopened PR [#3221](https://github.com/oauth2-proxy/oauth2-proxy/pull/3221) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
