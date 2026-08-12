@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#533](https://github.com/kubara-io/kubara/pull/533) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-2. 🗣 Commented on [#7850](https://github.com/earendil-works/pi/issues/7850#issuecomment-5240787503) in [earendil-works/pi](https://github.com/earendil-works/pi)
-3. 💪 Opened PR [#7851](https://github.com/earendil-works/pi/pull/7851) in [earendil-works/pi](https://github.com/earendil-works/pi)
-4. ℹ️ Labeled issue [#7850](https://github.com/earendil-works/pi/issues/7850) in [earendil-works/pi](https://github.com/earendil-works/pi)
-5. ❗ Opened issue [#7850](https://github.com/earendil-works/pi/issues/7850) in [earendil-works/pi](https://github.com/earendil-works/pi)
+1. 🗣 Commented on [#7850](https://github.com/earendil-works/pi/issues/7850#issuecomment-5256463148) in [earendil-works/pi](https://github.com/earendil-works/pi)
+2. 🎉 Merged PR [#533](https://github.com/kubara-io/kubara/pull/533) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+3. 🗣 Commented on [#7850](https://github.com/earendil-works/pi/issues/7850#issuecomment-5240787503) in [earendil-works/pi](https://github.com/earendil-works/pi)
+4. 💪 Opened PR [#7851](https://github.com/earendil-works/pi/pull/7851) in [earendil-works/pi](https://github.com/earendil-works/pi)
+5. ℹ️ Labeled issue [#7850](https://github.com/earendil-works/pi/issues/7850) in [earendil-works/pi](https://github.com/earendil-works/pi)
 <!--END_SECTION:activity-->
