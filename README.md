@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3499](https://github.com/oauth2-proxy/oauth2-proxy/issues/3499) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🗣 Commented on [#7850](https://github.com/earendil-works/pi/issues/7850#issuecomment-5256463148) in [earendil-works/pi](https://github.com/earendil-works/pi)
-3. 🎉 Merged PR [#533](https://github.com/kubara-io/kubara/pull/533) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-4. 🗣 Commented on [#7850](https://github.com/earendil-works/pi/issues/7850#issuecomment-5240787503) in [earendil-works/pi](https://github.com/earendil-works/pi)
-5. 💪 Opened PR [#7851](https://github.com/earendil-works/pi/pull/7851) in [earendil-works/pi](https://github.com/earendil-works/pi)
+1. ❗ Opened issue [#801](https://github.com/cncf/communitygroups/issues/801) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
+2. 🔒 Closed issue [#3499](https://github.com/oauth2-proxy/oauth2-proxy/issues/3499) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. 🗣 Commented on [#7850](https://github.com/earendil-works/pi/issues/7850#issuecomment-5256463148) in [earendil-works/pi](https://github.com/earendil-works/pi)
+4. 🎉 Merged PR [#533](https://github.com/kubara-io/kubara/pull/533) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+5. 🗣 Commented on [#7850](https://github.com/earendil-works/pi/issues/7850#issuecomment-5240787503) in [earendil-works/pi](https://github.com/earendil-works/pi)
 <!--END_SECTION:activity-->
