@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#801](https://github.com/cncf/communitygroups/issues/801) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
-2. 🔒 Closed issue [#3499](https://github.com/oauth2-proxy/oauth2-proxy/issues/3499) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. 🗣 Commented on [#7850](https://github.com/earendil-works/pi/issues/7850#issuecomment-5256463148) in [earendil-works/pi](https://github.com/earendil-works/pi)
-4. 🎉 Merged PR [#533](https://github.com/kubara-io/kubara/pull/533) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-5. 🗣 Commented on [#7850](https://github.com/earendil-works/pi/issues/7850#issuecomment-5240787503) in [earendil-works/pi](https://github.com/earendil-works/pi)
+1. 🗣 Commented on [#7850](https://github.com/earendil-works/pi/issues/7850#issuecomment-5326242084) in [earendil-works/pi](https://github.com/earendil-works/pi)
+2. 🎉 Merged PR [#3507](https://github.com/oauth2-proxy/oauth2-proxy/pull/3507) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. ❌ Closed PR [#3497](https://github.com/oauth2-proxy/oauth2-proxy/pull/3497) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. ❌ Closed PR [#3496](https://github.com/oauth2-proxy/oauth2-proxy/pull/3496) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. ❌ Closed PR [#3495](https://github.com/oauth2-proxy/oauth2-proxy/pull/3495) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
