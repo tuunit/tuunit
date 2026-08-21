@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#16](https://github.com/stackitcloud/cluster-api-provider-stackit/issues/16) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
-2. ❗ Opened issue [#15](https://github.com/stackitcloud/cluster-api-provider-stackit/issues/15) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
-3. ❗ Opened issue [#14](https://github.com/stackitcloud/cluster-api-provider-stackit/issues/14) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
-4. ❗ Opened issue [#13](https://github.com/stackitcloud/cluster-api-provider-stackit/issues/13) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
-5. ❗ Opened issue [#12](https://github.com/stackitcloud/cluster-api-provider-stackit/issues/12) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+1. 💪 Opened PR [#82](https://github.com/kubara-io/catalogs/pull/82) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
+2. 🗣 Commented on [#2389](https://github.com/flatcar/scripts/pull/2389#issuecomment-5356174210) in [flatcar/scripts](https://github.com/flatcar/scripts)
+3. 💪 Opened PR [#576](https://github.com/kubara-io/kubara/pull/576) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+4. 🗣 Commented on [#3477](https://github.com/oauth2-proxy/oauth2-proxy/pull/3477#issuecomment-5351857312) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. 🔒 Closed issue [#3448](https://github.com/oauth2-proxy/oauth2-proxy/issues/3448) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
