@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#82](https://github.com/kubara-io/catalogs/pull/82) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
-2. 🗣 Commented on [#2389](https://github.com/flatcar/scripts/pull/2389#issuecomment-5356174210) in [flatcar/scripts](https://github.com/flatcar/scripts)
-3. 💪 Opened PR [#576](https://github.com/kubara-io/kubara/pull/576) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-4. 🗣 Commented on [#3477](https://github.com/oauth2-proxy/oauth2-proxy/pull/3477#issuecomment-5351857312) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. 🔒 Closed issue [#3448](https://github.com/oauth2-proxy/oauth2-proxy/issues/3448) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 🎉 Merged PR [#326](https://github.com/stackitcloud/gardener-extension-acl/pull/326) in [stackitcloud/gardener-extension-acl](https://github.com/stackitcloud/gardener-extension-acl)
+2. 🎉 Merged PR [#592](https://github.com/stackitcloud/yawol/pull/592) in [stackitcloud/yawol](https://github.com/stackitcloud/yawol)
+3. 🎉 Merged PR [#10](https://github.com/stackitcloud/azure-devops-stackit-service-connection-extension/pull/10) in [stackitcloud/azure-devops-stackit-service-connection-extension](https://github.com/stackitcloud/azure-devops-stackit-service-connection-extension)
+4. 🎉 Merged PR [#224](https://github.com/stackitcloud/stackit-cert-manager-webhook/pull/224) in [stackitcloud/stackit-cert-manager-webhook](https://github.com/stackitcloud/stackit-cert-manager-webhook)
+5. 🎉 Merged PR [#97](https://github.com/stackitcloud/external-dns-stackit-webhook/pull/97) in [stackitcloud/external-dns-stackit-webhook](https://github.com/stackitcloud/external-dns-stackit-webhook)
 <!--END_SECTION:activity-->
