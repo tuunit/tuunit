@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#326](https://github.com/stackitcloud/gardener-extension-acl/pull/326) in [stackitcloud/gardener-extension-acl](https://github.com/stackitcloud/gardener-extension-acl)
-2. 🎉 Merged PR [#592](https://github.com/stackitcloud/yawol/pull/592) in [stackitcloud/yawol](https://github.com/stackitcloud/yawol)
-3. 🎉 Merged PR [#10](https://github.com/stackitcloud/azure-devops-stackit-service-connection-extension/pull/10) in [stackitcloud/azure-devops-stackit-service-connection-extension](https://github.com/stackitcloud/azure-devops-stackit-service-connection-extension)
-4. 🎉 Merged PR [#224](https://github.com/stackitcloud/stackit-cert-manager-webhook/pull/224) in [stackitcloud/stackit-cert-manager-webhook](https://github.com/stackitcloud/stackit-cert-manager-webhook)
-5. 🎉 Merged PR [#97](https://github.com/stackitcloud/external-dns-stackit-webhook/pull/97) in [stackitcloud/external-dns-stackit-webhook](https://github.com/stackitcloud/external-dns-stackit-webhook)
+1. 🗣 Commented on [#3520](https://github.com/oauth2-proxy/oauth2-proxy/issues/3520#issuecomment-5411147493) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 🎉 Merged PR [#1562](https://github.com/stackitcloud/cloud-provider-stackit/pull/1562) in [stackitcloud/cloud-provider-stackit](https://github.com/stackitcloud/cloud-provider-stackit)
+3. ℹ️ Labeled issue [#585](https://github.com/kubara-io/kubara/issues/585) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+4. ℹ️ Labeled issue [#585](https://github.com/kubara-io/kubara/issues/585) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+5. ❗ Opened issue [#585](https://github.com/kubara-io/kubara/issues/585) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
 <!--END_SECTION:activity-->
