@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3520](https://github.com/oauth2-proxy/oauth2-proxy/issues/3520#issuecomment-5411147493) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🎉 Merged PR [#1562](https://github.com/stackitcloud/cloud-provider-stackit/pull/1562) in [stackitcloud/cloud-provider-stackit](https://github.com/stackitcloud/cloud-provider-stackit)
-3. ℹ️ Labeled issue [#585](https://github.com/kubara-io/kubara/issues/585) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-4. ℹ️ Labeled issue [#585](https://github.com/kubara-io/kubara/issues/585) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-5. ❗ Opened issue [#585](https://github.com/kubara-io/kubara/issues/585) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+1. ❌ Closed PR [#91](https://github.com/kubara-io/catalogs/pull/91) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
+2. 🔓 Reopened issue [#2950](https://github.com/oauth2-proxy/oauth2-proxy/issues/2950) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. ℹ️ Labeled issue [#13867](https://github.com/longhorn/longhorn/issues/13867) in [longhorn/longhorn](https://github.com/longhorn/longhorn)
+4. ℹ️ Labeled issue [#13867](https://github.com/longhorn/longhorn/issues/13867) in [longhorn/longhorn](https://github.com/longhorn/longhorn)
+5. ℹ️ Labeled issue [#13867](https://github.com/longhorn/longhorn/issues/13867) in [longhorn/longhorn](https://github.com/longhorn/longhorn)
 <!--END_SECTION:activity-->
