@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#91](https://github.com/kubara-io/catalogs/pull/91) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
-2. 🔓 Reopened issue [#2950](https://github.com/oauth2-proxy/oauth2-proxy/issues/2950) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. ℹ️ Labeled issue [#13867](https://github.com/longhorn/longhorn/issues/13867) in [longhorn/longhorn](https://github.com/longhorn/longhorn)
-4. ℹ️ Labeled issue [#13867](https://github.com/longhorn/longhorn/issues/13867) in [longhorn/longhorn](https://github.com/longhorn/longhorn)
-5. ℹ️ Labeled issue [#13867](https://github.com/longhorn/longhorn/issues/13867) in [longhorn/longhorn](https://github.com/longhorn/longhorn)
+1. 🎉 Merged PR [#99](https://github.com/kubara-io/catalogs/pull/99) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
+2. 💪 Opened PR [#99](https://github.com/kubara-io/catalogs/pull/99) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
+3. 💪 Opened PR [#93](https://github.com/kubara-io/catalogs/pull/93) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
+4. ❌ Closed PR [#91](https://github.com/kubara-io/catalogs/pull/91) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
+5. 🔓 Reopened issue [#2950](https://github.com/oauth2-proxy/oauth2-proxy/issues/2950) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
