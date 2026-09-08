@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3520](https://github.com/oauth2-proxy/oauth2-proxy/issues/3520#issuecomment-5526833845) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🔒 Closed issue [#3520](https://github.com/oauth2-proxy/oauth2-proxy/issues/3520) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. 🗣 Commented on [#116](https://github.com/kubara-io/catalogs/pull/116#issuecomment-5509528518) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
-4. 🗣 Commented on [#116](https://github.com/kubara-io/catalogs/pull/116#issuecomment-5509464520) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
-5. 🗣 Commented on [#3520](https://github.com/oauth2-proxy/oauth2-proxy/issues/3520#issuecomment-5505704897) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 🎉 Merged PR [#597](https://github.com/kubara-io/kubara/pull/597) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+2. 🗣 Commented on [#3520](https://github.com/oauth2-proxy/oauth2-proxy/issues/3520#issuecomment-5526833845) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. 🔒 Closed issue [#3520](https://github.com/oauth2-proxy/oauth2-proxy/issues/3520) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. 🗣 Commented on [#116](https://github.com/kubara-io/catalogs/pull/116#issuecomment-5509528518) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
+5. 🗣 Commented on [#116](https://github.com/kubara-io/catalogs/pull/116#issuecomment-5509464520) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
 <!--END_SECTION:activity-->
