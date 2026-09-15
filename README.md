@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3537](https://github.com/oauth2-proxy/oauth2-proxy/pull/3537) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🗣 Commented on [#3537](https://github.com/oauth2-proxy/oauth2-proxy/pull/3537#issuecomment-5653542769) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. 💪 Opened PR [#3537](https://github.com/oauth2-proxy/oauth2-proxy/pull/3537) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-4. 💪 Opened PR [#3536](https://github.com/oauth2-proxy/oauth2-proxy/pull/3536) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. 🎉 Merged PR [#597](https://github.com/kubara-io/kubara/pull/597) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+1. 🎉 Merged PR [#6](https://github.com/stackitcloud/sfn-templates/pull/6) in [stackitcloud/sfn-templates](https://github.com/stackitcloud/sfn-templates)
+2. 🎉 Merged PR [#3537](https://github.com/oauth2-proxy/oauth2-proxy/pull/3537) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. 🗣 Commented on [#3537](https://github.com/oauth2-proxy/oauth2-proxy/pull/3537#issuecomment-5653542769) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. 💪 Opened PR [#3537](https://github.com/oauth2-proxy/oauth2-proxy/pull/3537) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. 💪 Opened PR [#3536](https://github.com/oauth2-proxy/oauth2-proxy/pull/3536) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
