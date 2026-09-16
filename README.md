@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/stackitcloud/sfn-templates/pull/6) in [stackitcloud/sfn-templates](https://github.com/stackitcloud/sfn-templates)
-2. 🎉 Merged PR [#3537](https://github.com/oauth2-proxy/oauth2-proxy/pull/3537) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. 🗣 Commented on [#3537](https://github.com/oauth2-proxy/oauth2-proxy/pull/3537#issuecomment-5653542769) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-4. 💪 Opened PR [#3537](https://github.com/oauth2-proxy/oauth2-proxy/pull/3537) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. 💪 Opened PR [#3536](https://github.com/oauth2-proxy/oauth2-proxy/pull/3536) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 🔒 Closed issue [#5](https://github.com/stackitcloud/cluster-api-provider-stackit/issues/5) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+2. 🗣 Commented on [#601](https://github.com/kubara-io/kubara/issues/601#issuecomment-5678522898) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+3. 🗣 Commented on [#573](https://github.com/kubara-io/kubara/issues/573#issuecomment-5678281410) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+4. 🗣 Commented on [#573](https://github.com/kubara-io/kubara/issues/573#issuecomment-5678256178) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+5. 🎉 Merged PR [#21](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/21) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
 <!--END_SECTION:activity-->
