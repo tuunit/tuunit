@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/stackitcloud/cluster-api-provider-stackit/issues/5) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
-2. 🗣 Commented on [#601](https://github.com/kubara-io/kubara/issues/601#issuecomment-5678522898) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-3. 🗣 Commented on [#573](https://github.com/kubara-io/kubara/issues/573#issuecomment-5678281410) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-4. 🗣 Commented on [#573](https://github.com/kubara-io/kubara/issues/573#issuecomment-5678256178) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-5. 🎉 Merged PR [#21](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/21) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+1. 🗣 Commented on [#17](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/17#issuecomment-5696604492) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+2. 🎉 Merged PR [#23](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/23) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+3. 💪 Opened PR [#23](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/23) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+4. 🔒 Closed issue [#5](https://github.com/stackitcloud/cluster-api-provider-stackit/issues/5) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+5. 🗣 Commented on [#601](https://github.com/kubara-io/kubara/issues/601#issuecomment-5678522898) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
 <!--END_SECTION:activity-->
