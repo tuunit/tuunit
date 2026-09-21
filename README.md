@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#24](https://github.com/stackitcloud/cluster-api-provider-stackit/issues/24) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
-2. ❗ Opened issue [#24](https://github.com/stackitcloud/cluster-api-provider-stackit/issues/24) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
-3. 🗣 Commented on [#600](https://github.com/kubara-io/kubara/issues/600#issuecomment-5727210951) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-4. 🗣 Commented on [#141](https://github.com/kubara-io/catalogs/pull/141#issuecomment-5726811702) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
-5. ❌ Closed PR [#638](https://github.com/kubara-io/kubara/pull/638) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+1. 💪 Opened PR [#517](https://github.com/SimformSolutionsPvtLtd/audio_waveforms/pull/517) in [SimformSolutionsPvtLtd/audio_waveforms](https://github.com/SimformSolutionsPvtLtd/audio_waveforms)
+2. ℹ️ Assigned issue [#24](https://github.com/stackitcloud/cluster-api-provider-stackit/issues/24) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+3. ❗ Opened issue [#24](https://github.com/stackitcloud/cluster-api-provider-stackit/issues/24) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+4. 🗣 Commented on [#600](https://github.com/kubara-io/kubara/issues/600#issuecomment-5727210951) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+5. 🗣 Commented on [#141](https://github.com/kubara-io/catalogs/pull/141#issuecomment-5726811702) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
 <!--END_SECTION:activity-->
