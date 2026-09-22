@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#517](https://github.com/SimformSolutionsPvtLtd/audio_waveforms/pull/517) in [SimformSolutionsPvtLtd/audio_waveforms](https://github.com/SimformSolutionsPvtLtd/audio_waveforms)
-2. ℹ️ Assigned issue [#24](https://github.com/stackitcloud/cluster-api-provider-stackit/issues/24) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
-3. ❗ Opened issue [#24](https://github.com/stackitcloud/cluster-api-provider-stackit/issues/24) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
-4. 🗣 Commented on [#600](https://github.com/kubara-io/kubara/issues/600#issuecomment-5727210951) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-5. 🗣 Commented on [#141](https://github.com/kubara-io/catalogs/pull/141#issuecomment-5726811702) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
+1. 🎉 Merged PR [#26](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/26) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+2. 💪 Opened PR [#26](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/26) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+3. 💪 Opened PR [#25](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/25) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+4. 🎉 Merged PR [#45](https://github.com/stackitcloud/stackit-pod-identity-webhook/pull/45) in [stackitcloud/stackit-pod-identity-webhook](https://github.com/stackitcloud/stackit-pod-identity-webhook)
+5. 🔒 Closed issue [#15](https://github.com/stackitcloud/cluster-api-provider-stackit/issues/15) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
 <!--END_SECTION:activity-->
