@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/26) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
-2. 💪 Opened PR [#26](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/26) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
-3. 💪 Opened PR [#25](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/25) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
-4. 🎉 Merged PR [#45](https://github.com/stackitcloud/stackit-pod-identity-webhook/pull/45) in [stackitcloud/stackit-pod-identity-webhook](https://github.com/stackitcloud/stackit-pod-identity-webhook)
-5. 🔒 Closed issue [#15](https://github.com/stackitcloud/cluster-api-provider-stackit/issues/15) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+1. 💪 Opened PR [#643](https://github.com/kubara-io/kubara/pull/643) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+2. 🎉 Merged PR [#26](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/26) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+3. 💪 Opened PR [#26](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/26) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+4. 💪 Opened PR [#25](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/25) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+5. 🎉 Merged PR [#45](https://github.com/stackitcloud/stackit-pod-identity-webhook/pull/45) in [stackitcloud/stackit-pod-identity-webhook](https://github.com/stackitcloud/stackit-pod-identity-webhook)
 <!--END_SECTION:activity-->
