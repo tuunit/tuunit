@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#643](https://github.com/kubara-io/kubara/pull/643) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-2. 🎉 Merged PR [#26](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/26) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
-3. 💪 Opened PR [#26](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/26) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
-4. 💪 Opened PR [#25](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/25) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
-5. 🎉 Merged PR [#45](https://github.com/stackitcloud/stackit-pod-identity-webhook/pull/45) in [stackitcloud/stackit-pod-identity-webhook](https://github.com/stackitcloud/stackit-pod-identity-webhook)
+1. ❌ Closed PR [#651](https://github.com/kubara-io/kubara/pull/651) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+2. 💪 Opened PR [#651](https://github.com/kubara-io/kubara/pull/651) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+3. 🗣 Commented on [#574](https://github.com/kubara-io/kubara/issues/574#issuecomment-5795653227) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+4. 🔒 Closed issue [#644](https://github.com/kubara-io/kubara/issues/644) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+5. 🗣 Commented on [#630](https://github.com/kubara-io/kubara/pull/630#issuecomment-5795380318) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
 <!--END_SECTION:activity-->
