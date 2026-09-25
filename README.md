@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#651](https://github.com/kubara-io/kubara/pull/651) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-2. 💪 Opened PR [#651](https://github.com/kubara-io/kubara/pull/651) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-3. 🗣 Commented on [#574](https://github.com/kubara-io/kubara/issues/574#issuecomment-5795653227) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-4. 🔒 Closed issue [#644](https://github.com/kubara-io/kubara/issues/644) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-5. 🗣 Commented on [#630](https://github.com/kubara-io/kubara/pull/630#issuecomment-5795380318) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+1. 🎉 Merged PR [#652](https://github.com/kubara-io/kubara/pull/652) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+2. 🎉 Merged PR [#178](https://github.com/kubara-io/catalogs/pull/178) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
+3. 💪 Opened PR [#652](https://github.com/kubara-io/kubara/pull/652) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+4. 💪 Opened PR [#178](https://github.com/kubara-io/catalogs/pull/178) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
+5. ❌ Closed PR [#13](https://github.com/tuunit/oauth2-proxy/pull/13) in [tuunit/oauth2-proxy](https://github.com/tuunit/oauth2-proxy)
 <!--END_SECTION:activity-->
