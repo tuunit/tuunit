@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Unlabeled PR [#3548](https://github.com/oauth2-proxy/oauth2-proxy/pull/3548) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🗣 Commented on [#14](https://github.com/tuunit/oauth2-proxy/pull/14#issuecomment-5873084739) in [tuunit/oauth2-proxy](https://github.com/tuunit/oauth2-proxy)
-3. 💪 Opened PR [#14](https://github.com/tuunit/oauth2-proxy/pull/14) in [tuunit/oauth2-proxy](https://github.com/tuunit/oauth2-proxy)
-4. 🗣 Commented on [#13](https://github.com/tuunit/oauth2-proxy/pull/13#issuecomment-5873029966) in [tuunit/oauth2-proxy](https://github.com/tuunit/oauth2-proxy)
-5. ℹ️ Unlabeled PR [#13](https://github.com/tuunit/oauth2-proxy/pull/13) in [tuunit/oauth2-proxy](https://github.com/tuunit/oauth2-proxy)
+1. 💪 Opened PR [#658](https://github.com/kubara-io/kubara/pull/658) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+2. ℹ️ Unlabeled PR [#3548](https://github.com/oauth2-proxy/oauth2-proxy/pull/3548) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. 🗣 Commented on [#14](https://github.com/tuunit/oauth2-proxy/pull/14#issuecomment-5873084739) in [tuunit/oauth2-proxy](https://github.com/tuunit/oauth2-proxy)
+4. 💪 Opened PR [#14](https://github.com/tuunit/oauth2-proxy/pull/14) in [tuunit/oauth2-proxy](https://github.com/tuunit/oauth2-proxy)
+5. 🗣 Commented on [#13](https://github.com/tuunit/oauth2-proxy/pull/13#issuecomment-5873029966) in [tuunit/oauth2-proxy](https://github.com/tuunit/oauth2-proxy)
 <!--END_SECTION:activity-->
