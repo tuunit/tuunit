@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#665](https://github.com/kubara-io/kubara/pull/665) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-2. 💪 Opened PR [#665](https://github.com/kubara-io/kubara/pull/665) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-3. 🎉 Merged PR [#631](https://github.com/kubara-io/kubara/pull/631) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-4. 🎉 Merged PR [#658](https://github.com/kubara-io/kubara/pull/658) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-5. 🎉 Merged PR [#662](https://github.com/kubara-io/kubara/pull/662) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+1. 🎉 Merged PR [#271](https://github.com/stackitcloud/gardener-extension-provider-stackit/pull/271) in [stackitcloud/gardener-extension-provider-stackit](https://github.com/stackitcloud/gardener-extension-provider-stackit)
+2. 🎉 Merged PR [#87](https://github.com/stackitcloud/grafana-backup-tool/pull/87) in [stackitcloud/grafana-backup-tool](https://github.com/stackitcloud/grafana-backup-tool)
+3. 🎉 Merged PR [#197](https://github.com/stackitcloud/machine-controller-manager-provider-stackit/pull/197) in [stackitcloud/machine-controller-manager-provider-stackit](https://github.com/stackitcloud/machine-controller-manager-provider-stackit)
+4. 💪 Opened PR [#672](https://github.com/kubara-io/kubara/pull/672) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+5. 🎉 Merged PR [#665](https://github.com/kubara-io/kubara/pull/665) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
 <!--END_SECTION:activity-->
