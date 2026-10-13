@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#231](https://github.com/kubara-io/catalogs/pull/231) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
-2. 🎉 Merged PR [#681](https://github.com/kubara-io/kubara/pull/681) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-3. 💪 Opened PR [#231](https://github.com/kubara-io/catalogs/pull/231) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
-4. 💪 Opened PR [#681](https://github.com/kubara-io/kubara/pull/681) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-5. 💪 Opened PR [#679](https://github.com/kubara-io/kubara/pull/679) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+1. 🔒 Closed issue [#7](https://github.com/stackitcloud/cluster-api-provider-stackit/issues/7) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+2. 🎉 Merged PR [#231](https://github.com/kubara-io/catalogs/pull/231) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
+3. 🎉 Merged PR [#681](https://github.com/kubara-io/kubara/pull/681) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+4. 💪 Opened PR [#231](https://github.com/kubara-io/catalogs/pull/231) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
+5. 💪 Opened PR [#681](https://github.com/kubara-io/kubara/pull/681) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
 <!--END_SECTION:activity-->
