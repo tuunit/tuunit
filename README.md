@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#109](https://github.com/kubara-io/catalogs/pull/109) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
-2. 🗣 Commented on [#4272](https://github.com/kubernetes-sigs/kind/pull/4272#issuecomment-6171774898) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-3. 🔒 Closed issue [#29](https://github.com/stackitcloud/cluster-api-provider-stackit/issues/29) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
-4. 🔒 Closed issue [#30](https://github.com/stackitcloud/cluster-api-provider-stackit/issues/30) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
-5. 💪 Opened PR [#33](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/33) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+1. 🎉 Merged PR [#33](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/33) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+2. 🎉 Merged PR [#109](https://github.com/kubara-io/catalogs/pull/109) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
+3. 🗣 Commented on [#4272](https://github.com/kubernetes-sigs/kind/pull/4272#issuecomment-6171774898) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+4. 🔒 Closed issue [#29](https://github.com/stackitcloud/cluster-api-provider-stackit/issues/29) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+5. 🔒 Closed issue [#30](https://github.com/stackitcloud/cluster-api-provider-stackit/issues/30) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
 <!--END_SECTION:activity-->
