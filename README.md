@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4272](https://github.com/kubernetes-sigs/kind/pull/4272#issuecomment-6297393786) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-2. 🗣 Commented on [#4272](https://github.com/kubernetes-sigs/kind/pull/4272#issuecomment-6294726713) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-3. 🗣 Commented on [#4272](https://github.com/kubernetes-sigs/kind/pull/4272#issuecomment-6286794683) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-4. 🎉 Merged PR [#33](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/33) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
-5. 🎉 Merged PR [#109](https://github.com/kubara-io/catalogs/pull/109) in [kubara-io/catalogs](https://github.com/kubara-io/catalogs)
+1. 🎉 Merged PR [#2](https://github.com/kubara-io/platform-setup-examples/pull/2) in [kubara-io/platform-setup-examples](https://github.com/kubara-io/platform-setup-examples)
+2. 💪 Opened PR [#2](https://github.com/kubara-io/platform-setup-examples/pull/2) in [kubara-io/platform-setup-examples](https://github.com/kubara-io/platform-setup-examples)
+3. 🗣 Commented on [#4272](https://github.com/kubernetes-sigs/kind/pull/4272#issuecomment-6297393786) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+4. 🗣 Commented on [#4272](https://github.com/kubernetes-sigs/kind/pull/4272#issuecomment-6294726713) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+5. 🗣 Commented on [#4272](https://github.com/kubernetes-sigs/kind/pull/4272#issuecomment-6286794683) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
 <!--END_SECTION:activity-->
