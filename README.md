@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/oauth2-proxy/mockoidc/pull/48#issuecomment-6608147528) in [oauth2-proxy/mockoidc](https://github.com/oauth2-proxy/mockoidc)
-2. 🗣 Commented on [#58](https://github.com/oauth2-proxy/mockoidc/pull/58#issuecomment-6608102179) in [oauth2-proxy/mockoidc](https://github.com/oauth2-proxy/mockoidc)
-3. ❌ Closed PR [#58](https://github.com/oauth2-proxy/mockoidc/pull/58) in [oauth2-proxy/mockoidc](https://github.com/oauth2-proxy/mockoidc)
-4. ❌ Closed PR [#2316](https://github.com/oauth2-proxy/oauth2-proxy/pull/2316) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. 🗣 Commented on [#2316](https://github.com/oauth2-proxy/oauth2-proxy/pull/2316#issuecomment-6573515524) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 🗣 Commented on [#3219](https://github.com/oauth2-proxy/oauth2-proxy/pull/3219#issuecomment-6641587074) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. 🗣 Commented on [#3219](https://github.com/oauth2-proxy/oauth2-proxy/pull/3219#issuecomment-6641600127) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. 🗣 Commented on [#3219](https://github.com/oauth2-proxy/oauth2-proxy/pull/3219#issuecomment-6641595659) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. ❌ Closed PR [#2767](https://github.com/oauth2-proxy/oauth2-proxy/pull/2767) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. 🗣 Commented on [#37](https://github.com/stackitcloud/cluster-api-provider-stackit/issues/37#issuecomment-6633833600) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
 <!--END_SECTION:activity-->
