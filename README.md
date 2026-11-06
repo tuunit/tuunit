@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3219](https://github.com/oauth2-proxy/oauth2-proxy/pull/3219#issuecomment-6641587074) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🗣 Commented on [#3219](https://github.com/oauth2-proxy/oauth2-proxy/pull/3219#issuecomment-6641600127) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-3. 🗣 Commented on [#3219](https://github.com/oauth2-proxy/oauth2-proxy/pull/3219#issuecomment-6641595659) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-4. ❌ Closed PR [#2767](https://github.com/oauth2-proxy/oauth2-proxy/pull/2767) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-5. 🗣 Commented on [#37](https://github.com/stackitcloud/cluster-api-provider-stackit/issues/37#issuecomment-6633833600) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+1. 🎉 Merged PR [#428](https://github.com/oauth2-proxy/manifests/pull/428) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+2. 💪 Opened PR [#428](https://github.com/oauth2-proxy/manifests/pull/428) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+3. 🎉 Merged PR [#2712](https://github.com/fluxcd/website/pull/2712) in [fluxcd/website](https://github.com/fluxcd/website)
+4. 🗣 Commented on [#2712](https://github.com/fluxcd/website/pull/2712#issuecomment-6660275409) in [fluxcd/website](https://github.com/fluxcd/website)
+5. 🗣 Commented on [#2712](https://github.com/fluxcd/website/pull/2712#issuecomment-6659668903) in [fluxcd/website](https://github.com/fluxcd/website)
 <!--END_SECTION:activity-->
