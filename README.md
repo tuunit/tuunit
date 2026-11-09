@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#428](https://github.com/oauth2-proxy/manifests/pull/428) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-2. 💪 Opened PR [#428](https://github.com/oauth2-proxy/manifests/pull/428) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-3. 🎉 Merged PR [#2712](https://github.com/fluxcd/website/pull/2712) in [fluxcd/website](https://github.com/fluxcd/website)
-4. 🗣 Commented on [#2712](https://github.com/fluxcd/website/pull/2712#issuecomment-6660275409) in [fluxcd/website](https://github.com/fluxcd/website)
-5. 🗣 Commented on [#2712](https://github.com/fluxcd/website/pull/2712#issuecomment-6659668903) in [fluxcd/website](https://github.com/fluxcd/website)
+1. ❌ Closed PR [#3581](https://github.com/oauth2-proxy/oauth2-proxy/pull/3581) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+2. ❌ Closed PR [#3580](https://github.com/oauth2-proxy/oauth2-proxy/pull/3580) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+3. ❌ Closed PR [#3566](https://github.com/oauth2-proxy/oauth2-proxy/pull/3566) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+4. ❌ Closed PR [#3565](https://github.com/oauth2-proxy/oauth2-proxy/pull/3565) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. ❌ Closed PR [#3559](https://github.com/oauth2-proxy/oauth2-proxy/pull/3559) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
