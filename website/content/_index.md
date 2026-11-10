@@ -5,7 +5,7 @@ hero: /assets/hero.jpg
 
 ## Coder, Open Sourcerer, Teacher
 
-I'm a **Staff Platform Engineer** with a passion for **open source**, learning and teaching. I've been coding and tinkering for over **17 years** and love to share my knowledge about software architecture and design.
+I'm a **Senior Software Engineer** with a passion for **open source**, learning and teaching. I've been coding and tinkering for over **18 years** and love to share my knowledge about software architecture and design.
 
 I'm mostly focused on building tools and **internal development platforms** for enabling others.
 
@@ -63,6 +63,7 @@ My language of choice is **<span style="color: #00ADD8">Go</span>** and a health
 
 **Cloud infrastructure providers**
 
+* STACKIT
 * IONOS Cloud
 * GCP
 * AWS
@@ -89,19 +90,23 @@ My language of choice is **<span style="color: #00ADD8">Go</span>** and a health
 
 **Operating systems**
 * Linux
+* macOS
 
 ## Hands-on Experience
 
+**Senior Software Engineer** - STACKIT (Apr 2026 - Present
 
-**Staff Platform Engineer** - IONOS (Sep 2024 - Present)
+Technical lead of the Kubernetes Experience team. We are focusing on all things that are necessary to improve the DevEx on top of and adjacent to Kubernetes. Additional managed tooling for observability, cross product integration, lifecycle management, Cluster APl and projects like kubara.io Further I'm part of our API Advisory Board working on standardising API design and implementation across the Kubernetes Domain products.
+
+**Contributor & Maintainer** - OAuth2 Proxy (Dec 2022 - Present)
+
+As a core maintainer of OAuth2 Proxy, I lead releases, triage and fix security issues. Review & merge PRs. Ship features across OIDC providers and proxy/middleware integrations. I focus on auth correctness, reliability and automation.
+
+**Staff Platform Engineer** - IONOS (Sep 2024 - Mar 2026)
 
 Building the Sovereign Cloud for Germany. Working on the cross-functional integration of all core systems of the IONOS Cloud airgapped offering. From the bare metal infrastructure up to the PaaS products. 
 
 The story begins with automation of bare metal server configuration and automation, leading to classic core systems like NTP, DNS, and FTP, over to modern infrastructure automation with Kubernetes, ClusterAPI and GitOps with ArgoCD. Furthermore, taking part in on-call rotations and coordinating efforts to minimize risk, ensuring stability and teaching and mentoring other engineers in the field.
-
-**Contributor & Maintainer** - OAuth2 Proxy (Dec 2022 - Present)
-
-As a core maintainer of OAuth2 Proxy, I lead releases, triage and fix security issues. Review & merge PRs. Ship features across OIDC providers and proxy/middleware integrations. I focus on auth correctness, reliability, and automation.
 
 **Senior DevOps Engineer** - Capgemini (Apr 2022 - Aug 2024)
 
