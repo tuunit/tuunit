@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#628](https://github.com/kubara-io/kubara/pull/628) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-2. 🗣 Commented on [#426](https://github.com/oauth2-proxy/manifests/issues/426#issuecomment-6771033483) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-3. ℹ️ Reopened PR [#3420](https://github.com/oauth2-proxy/oauth2-proxy/pull/3420) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-4. 🗣 Commented on [#427](https://github.com/oauth2-proxy/manifests/pull/427#issuecomment-6743133350) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-5. 🗣 Commented on [#427](https://github.com/oauth2-proxy/manifests/pull/427#issuecomment-6743046813) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+1. 🗣 Commented on [#575](https://github.com/kubara-io/kubara/issues/575#issuecomment-6805593289) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+2. 🔒 Closed issue [#575](https://github.com/kubara-io/kubara/issues/575) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+3. 🔒 Closed issue [#419](https://github.com/oauth2-proxy/manifests/issues/419) in [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+4. 🗣 Commented on [#3483](https://github.com/oauth2-proxy/oauth2-proxy/pull/3483#issuecomment-6789628649) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. 🎉 Merged PR [#628](https://github.com/kubara-io/kubara/pull/628) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
 <!--END_SECTION:activity-->
