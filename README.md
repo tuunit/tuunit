@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3614](https://github.com/oauth2-proxy/oauth2-proxy/pull/3614) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-2. 🎉 Merged PR [#3](https://github.com/oauth2-proxy/.project/pull/3) in [oauth2-proxy/.project](https://github.com/oauth2-proxy/.project)
-3. ❌ Closed PR [#712](https://github.com/kubara-io/kubara/pull/712) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-4. 💪 Opened PR [#709](https://github.com/kubara-io/kubara/pull/709) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-5. 🗣 Commented on [#599](https://github.com/kubara-io/kubara/pull/599#issuecomment-6858113079) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+1. 💪 Opened PR [#42](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/42) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+2. 💪 Opened PR [#41](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/41) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+3. 🗣 Commented on [#40](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/40#issuecomment-7102190343) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+4. 🎉 Merged PR [#709](https://github.com/kubara-io/kubara/pull/709) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+5. 💪 Opened PR [#3614](https://github.com/oauth2-proxy/oauth2-proxy/pull/3614) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
