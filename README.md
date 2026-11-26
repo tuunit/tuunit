@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#42](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/42) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
-2. 💪 Opened PR [#41](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/41) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
-3. 🗣 Commented on [#40](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/40#issuecomment-7102190343) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
-4. 🎉 Merged PR [#709](https://github.com/kubara-io/kubara/pull/709) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
-5. 💪 Opened PR [#3614](https://github.com/oauth2-proxy/oauth2-proxy/pull/3614) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+1. 🎉 Merged PR [#41](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/41) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+2. 💪 Opened PR [#42](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/42) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+3. 💪 Opened PR [#41](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/41) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+4. 🗣 Commented on [#40](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/40#issuecomment-7102190343) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+5. 🎉 Merged PR [#709](https://github.com/kubara-io/kubara/pull/709) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
 <!--END_SECTION:activity-->
