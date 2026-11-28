@@ -31,9 +31,9 @@ My favourite language right now is **Go** and a healthy sprinkle of Bash scripti
 ## 🔔 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/41) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
-2. 💪 Opened PR [#42](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/42) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
-3. 💪 Opened PR [#41](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/41) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
-4. 🗣 Commented on [#40](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/40#issuecomment-7102190343) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
-5. 🎉 Merged PR [#709](https://github.com/kubara-io/kubara/pull/709) in [kubara-io/kubara](https://github.com/kubara-io/kubara)
+1. ❌ Closed PR [#38](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/38) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+2. 🔒 Closed issue [#6](https://github.com/stackitcloud/cluster-api-provider-stackit/issues/6) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
+3. 🎉 Merged PR [#1332](https://github.com/cncf/gitdm/pull/1332) in [cncf/gitdm](https://github.com/cncf/gitdm)
+4. 💪 Opened PR [#1332](https://github.com/cncf/gitdm/pull/1332) in [cncf/gitdm](https://github.com/cncf/gitdm)
+5. 🎉 Merged PR [#41](https://github.com/stackitcloud/cluster-api-provider-stackit/pull/41) in [stackitcloud/cluster-api-provider-stackit](https://github.com/stackitcloud/cluster-api-provider-stackit)
 <!--END_SECTION:activity-->
